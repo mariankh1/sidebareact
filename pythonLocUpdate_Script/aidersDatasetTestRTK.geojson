@@ -1,0 +1,4457 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151176797,35.1452954125,74.8843 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:10",
+    "rostime secs":1592229910,
+    "rostime nsecs":856467831,
+    "batttery":63,
+    "heading":16.9784,
+    "velocity":5.38929,
+    "relative position":0,
+    "Orientation X":0.1094709833,
+    "Orientation Y":-0.1578723831,
+    "Orientation Z":0.584164542,
+    "Orientation W":0.7885709875,
+    "angular velocity X":0.0128519274,
+    "angular velocity Y":-0.2920994163,
+    "angular velocity Z":-0.1321415007,
+    "linear Acceleration X":-0.250923247,
+    "linear Acceleration Y":-0.1856921503,
+    "linear Acceleration Z":10.0208755968,
+    "barometer":212.990234375,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151204932,35.1453083698,74.9164 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:11",
+    "rostime secs":1592229911,
+    "rostime nsecs":856427674,
+    "batttery":63,
+    "heading":16.7153,
+    "velocity":3.15815,
+    "relative position":0,
+    "Orientation X":0.0188202252,
+    "Orientation Y":0.0028796129,
+    "Orientation Z":0.5984004539,
+    "Orientation W":0.8009709131,
+    "angular velocity X":-0.1484631449,
+    "angular velocity Y":0.1699950695,
+    "angular velocity Z":0.0131511763,
+    "linear Acceleration X":-0.1701988306,
+    "linear Acceleration Y":-0.0362070341,
+    "linear Acceleration Z":9.8149117845,
+    "barometer":213.0396728516,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151220163,35.1453128384,74.9602 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:12",
+    "rostime secs":1592229912,
+    "rostime nsecs":856442674,
+    "batttery":63,
+    "heading":39.5239,
+    "velocity":0.557737,
+    "relative position":0,
+    "Orientation X":0.0084300977,
+    "Orientation Y":-0.0117654574,
+    "Orientation Z":0.4077793872,
+    "Orientation W":0.9129657599,
+    "angular velocity X":0.092495814,
+    "angular velocity Y":0.1602081954,
+    "angular velocity Z":-1.5675828457,
+    "linear Acceleration X":-0.360921472,
+    "linear Acceleration Y":-0.0240056728,
+    "linear Acceleration Z":9.46586351,
+    "barometer":213.0802307129,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151221633,35.1453124163,74.9132 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:13",
+    "rostime secs":1592229913,
+    "rostime nsecs":856309444,
+    "batttery":63,
+    "heading":129.99,
+    "velocity":0.0619653,
+    "relative position":0,
+    "Orientation X":-0.0360733993,
+    "Orientation Y":-0.0063719884,
+    "Orientation Z":-0.3590826345,
+    "Orientation W":0.9325866015,
+    "angular velocity X":0.0706070885,
+    "angular velocity Y":-0.2246466726,
+    "angular velocity Z":-1.3020795584,
+    "linear Acceleration X":0.3735263249,
+    "linear Acceleration Y":-0.3236116494,
+    "linear Acceleration Z":9.6925127333,
+    "barometer":213.0343170166,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151245816,35.1453135105,74.8291 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:14",
+    "rostime secs":1592229914,
+    "rostime nsecs":856428246,
+    "batttery":62,
+    "heading":161.189,
+    "velocity":0.24146,
+    "relative position":0,
+    "Orientation X":-0.0124125696,
+    "Orientation Y":-0.015820382,
+    "Orientation Z":-0.5831058447,
+    "Orientation W":0.8121472881,
+    "angular velocity X":-0.2945110798,
+    "angular velocity Y":0.1570368409,
+    "angular velocity Z":0.0261784494,
+    "linear Acceleration X":0.5598322712,
+    "linear Acceleration Y":-0.5110997308,
+    "linear Acceleration Z":9.7983244321,
+    "barometer":212.950958252,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151257997,35.1453105685,74.7279 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:15",
+    "rostime secs":1592229915,
+    "rostime nsecs":856551214,
+    "batttery":92,
+    "heading":164.966,
+    "velocity":0.249858,
+    "relative position":0,
+    "Orientation X":0.1062555924,
+    "Orientation Y":0.1411122294,
+    "Orientation Z":-0.600153607,
+    "Orientation W":0.7801363572,
+    "angular velocity X":-0.1511282623,
+    "angular velocity Y":-0.1729097962,
+    "angular velocity Z":0.0133520225,
+    "linear Acceleration X":0.2012989845,
+    "linear Acceleration Y":-0.5569384372,
+    "linear Acceleration Z":10.8148906696,
+    "barometer":212.8426208496,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151364258,35.1452770451,74.8722 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:16",
+    "rostime secs":1592229916,
+    "rostime nsecs":856307360,
+    "batttery":92,
+    "heading":165.276,
+    "velocity":2.40703,
+    "relative position":0,
+    "Orientation X":0.0439113071,
+    "Orientation Y":0.0816331099,
+    "Orientation Z":-0.6082711776,
+    "Orientation W":0.7882981714,
+    "angular velocity X":-0.0333522335,
+    "angular velocity Y":-0.8142836094,
+    "angular velocity Z":0.0079057589,
+    "linear Acceleration X":-0.4497761388,
+    "linear Acceleration Y":-0.7705612085,
+    "linear Acceleration Z":9.9068695332,
+    "barometer":212.9994354248,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151473284,35.1452354123,74.8923 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:17",
+    "rostime secs":1592229917,
+    "rostime nsecs":856358610,
+    "batttery":92,
+    "heading":164.922,
+    "velocity":5.13131,
+    "relative position":10,
+    "Orientation X":-0.1019818781,
+    "Orientation Y":-0.0833531213,
+    "Orientation Z":-0.607185261,
+    "Orientation W":0.7835674907,
+    "angular velocity X":0.1589454114,
+    "angular velocity Y":-0.6985579729,
+    "angular velocity Z":-0.0079685133,
+    "linear Acceleration X":-0.0765064538,
+    "linear Acceleration Y":-0.9262125881,
+    "linear Acceleration Z":9.8131790915,
+    "barometer":213.0004425049,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151521438,35.1452147608,74.9599 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:18",
+    "rostime secs":1592229918,
+    "rostime nsecs":856419599,
+    "batttery":92,
+    "heading":164.566,
+    "velocity":3.98136,
+    "relative position":10,
+    "Orientation X":-0.1439340385,
+    "Orientation Y":-0.1406525535,
+    "Orientation Z":-0.5995058111,
+    "Orientation W":0.774656462,
+    "angular velocity X":0.0852630585,
+    "angular velocity Y":-0.0453703254,
+    "angular velocity Z":-0.0036986619,
+    "linear Acceleration X":0.5581398139,
+    "linear Acceleration Y":-0.6174218249,
+    "linear Acceleration Z":10.1023180132,
+    "barometer":213.0813751221,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151497795,35.1452206391,74.872 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:19",
+    "rostime secs":1592229919,
+    "rostime nsecs":856379650,
+    "batttery":92,
+    "heading":166.089,
+    "velocity":0.150237,
+    "relative position":10,
+    "Orientation X":-0.0116879407,
+    "Orientation Y":0.0379455283,
+    "Orientation Z":-0.6164869966,
+    "Orientation W":0.786363346,
+    "angular velocity X":-0.1676850021,
+    "angular velocity Y":-0.1622872651,
+    "angular velocity Z":0.0336371697,
+    "linear Acceleration X":0.6859159241,
+    "linear Acceleration Y":-0.9872927939,
+    "linear Acceleration Z":9.6459853091,
+    "barometer":212.9965057373,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151502434,35.1452182227,74.7202 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:20",
+    "rostime secs":1592229920,
+    "rostime nsecs":856415848,
+    "batttery":92,
+    "heading":111.596,
+    "velocity":0.415552,
+    "relative position":10,
+    "Orientation X":-0.0494795357,
+    "Orientation Y":-0.0142275695,
+    "Orientation Z":-0.16720957,
+    "Orientation W":0.9845762091,
+    "angular velocity X":0.1715119332,
+    "angular velocity Y":0.1157782897,
+    "angular velocity Z":1.6414651871,
+    "linear Acceleration X":-0.160439653,
+    "linear Acceleration Y":-0.6763327323,
+    "linear Acceleration Z":9.7816284213,
+    "barometer":212.8484191895,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151479645,35.1452197986,74.795 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:21",
+    "rostime secs":1592229921,
+    "rostime nsecs":855615848,
+    "batttery":92,
+    "heading":78.5552,
+    "velocity":0.227366,
+    "relative position":10,
+    "Orientation X":-0.0634734232,
+    "Orientation Y":0.1716501087,
+    "Orientation Z":0.1065351291,
+    "Orientation W":0.977321662,
+    "angular velocity X":0.3719057441,
+    "angular velocity Y":0.5309869051,
+    "angular velocity Z":0.0169612616,
+    "linear Acceleration X":-0.6099050419,
+    "linear Acceleration Y":-0.9043382143,
+    "linear Acceleration Z":10.7048009831,
+    "barometer":212.9171905518,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151693359,35.1452255773,74.7689 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:22",
+    "rostime secs":1592229922,
+    "rostime nsecs":856588139,
+    "batttery":92,
+    "heading":76.932,
+    "velocity":0.643614,
+    "relative position":10,
+    "Orientation X":-0.0461587602,
+    "Orientation Y":0.2007924198,
+    "Orientation Z":0.1164168463,
+    "Orientation W":0.9715960534,
+    "angular velocity X":-0.0700722486,
+    "angular velocity Y":0.0463024266,
+    "angular velocity Z":0.0469635949,
+    "linear Acceleration X":-0.7854171822,
+    "linear Acceleration Y":-0.7031799819,
+    "linear Acceleration Z":10.1890344529,
+    "barometer":212.8792724609,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152197358,35.1452343457,74.799 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:23",
+    "rostime secs":1592229923,
+    "rostime nsecs":856315066,
+    "batttery":91,
+    "heading":75.9132,
+    "velocity":4.01071,
+    "relative position":11,
+    "Orientation X":-0.039126723,
+    "Orientation Y":-0.0020500121,
+    "Orientation Z":0.1231587361,
+    "Orientation W":0.9916132425,
+    "angular velocity X":-0.0124758482,
+    "angular velocity Y":-0.1863212585,
+    "angular velocity Z":0.101458177,
+    "linear Acceleration X":-0.8622868166,
+    "linear Acceleration Y":-0.719532784,
+    "linear Acceleration Z":9.4531288585,
+    "barometer":212.9051055908,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415257897,35.1452425339,74.8587 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:24",
+    "rostime secs":1592229924,
+    "rostime nsecs":856394128,
+    "batttery":91,
+    "heading":75.5814,
+    "velocity":4.95489,
+    "relative position":11,
+    "Orientation X":-0.0053813094,
+    "Orientation Y":-0.1885592171,
+    "Orientation Z":0.118080291,
+    "Orientation W":0.9749223087,
+    "angular velocity X":-0.0011491328,
+    "angular velocity Y":-0.1927579194,
+    "angular velocity Z":0.0215758644,
+    "linear Acceleration X":-0.4489487867,
+    "linear Acceleration Y":-0.6287363954,
+    "linear Acceleration Z":9.9430037198,
+    "barometer":212.9857025146,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152539333,35.1452451944,74.8763 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:25",
+    "rostime secs":1592229925,
+    "rostime nsecs":856437461,
+    "batttery":91,
+    "heading":76.8657,
+    "velocity":1.55212,
+    "relative position":11,
+    "Orientation X":-0.0167038052,
+    "Orientation Y":0.0697751863,
+    "Orientation Z":0.1149256491,
+    "Orientation W":0.9907797442,
+    "angular velocity X":0.1235637441,
+    "angular velocity Y":0.4773455262,
+    "angular velocity Z":0.0508165136,
+    "linear Acceleration X":-0.440057124,
+    "linear Acceleration Y":-0.5732040496,
+    "linear Acceleration Z":9.8505622659,
+    "barometer":212.9962463379,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152538915,35.1452446201,74.9339 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:26",
+    "rostime secs":1592229926,
+    "rostime nsecs":856379804,
+    "batttery":91,
+    "heading":77.3853,
+    "velocity":0.691725,
+    "relative position":11,
+    "Orientation X":-0.0375207857,
+    "Orientation Y":0.1100272874,
+    "Orientation Z":0.112458199,
+    "Orientation W":0.9868329849,
+    "angular velocity X":0.1706548482,
+    "angular velocity Y":1.0763912201,
+    "angular velocity Z":0.0036925599,
+    "linear Acceleration X":-0.7231735717,
+    "linear Acceleration Y":-0.6004934179,
+    "linear Acceleration Z":9.721613331,
+    "barometer":213.0422210693,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152761209,35.1452465766,74.9539 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:27",
+    "rostime secs":1592229927,
+    "rostime nsecs":856417824,
+    "batttery":91,
+    "heading":77.3764,
+    "velocity":0.549559,
+    "relative position":11,
+    "Orientation X":-0.064670249,
+    "Orientation Y":0.1962408212,
+    "Orientation Z":0.1165858179,
+    "Orientation W":0.9714499709,
+    "angular velocity X":-0.1016528457,
+    "angular velocity Y":-0.0232147202,
+    "angular velocity Z":-0.0233783685,
+    "linear Acceleration X":-0.7600257219,
+    "linear Acceleration Y":-0.6821842956,
+    "linear Acceleration Z":9.948571004,
+    "barometer":213.0594177246,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153281678,35.1452554724,75.0406 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:28",
+    "rostime secs":1592229928,
+    "rostime nsecs":856339335,
+    "batttery":91,
+    "heading":75.6788,
+    "velocity":3.92169,
+    "relative position":12,
+    "Orientation X":-0.0434971002,
+    "Orientation Y":-0.0066792163,
+    "Orientation Z":0.125004387,
+    "Orientation W":0.9911797484,
+    "angular velocity X":0.0622340143,
+    "angular velocity Y":-0.140201211,
+    "angular velocity Z":0.0672447532,
+    "linear Acceleration X":-0.5937701409,
+    "linear Acceleration Y":-0.723212347,
+    "linear Acceleration Z":9.4260664827,
+    "barometer":213.1587677002,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153669416,35.1452636424,74.9742 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:29",
+    "rostime secs":1592229929,
+    "rostime nsecs":856308032,
+    "batttery":91,
+    "heading":75.7857,
+    "velocity":4.88796,
+    "relative position":12,
+    "Orientation X":-0.0035307364,
+    "Orientation Y":-0.2001825208,
+    "Orientation Z":0.115612686,
+    "Orientation W":0.9729070866,
+    "angular velocity X":0.0812711045,
+    "angular velocity Y":-0.1371951103,
+    "angular velocity Z":-0.00000543519854545593,
+    "linear Acceleration X":-0.2802398837,
+    "linear Acceleration Y":-0.671506779,
+    "linear Acceleration Z":10.3746884851,
+    "barometer":213.0667572021,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153653176,35.1452655717,75.0222 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:30",
+    "rostime secs":1592229930,
+    "rostime nsecs":856319750,
+    "batttery":91,
+    "heading":76.7644,
+    "velocity":1.64609,
+    "relative position":12,
+    "Orientation X":-0.032628791,
+    "Orientation Y":0.0483639673,
+    "Orientation Z":0.1164618115,
+    "Orientation W":0.9914801738,
+    "angular velocity X":-0.1743098497,
+    "angular velocity Y":0.5066916347,
+    "angular velocity Z":0.0016591055,
+    "linear Acceleration X":-0.1724020118,
+    "linear Acceleration Y":-0.6787181792,
+    "linear Acceleration Z":9.7451466445,
+    "barometer":213.1502838135,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153637028,35.1452646183,75.1019 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:31",
+    "rostime secs":1592229931,
+    "rostime nsecs":856353813,
+    "batttery":91,
+    "heading":76.8949,
+    "velocity":0.824042,
+    "relative position":12,
+    "Orientation X":-0.0476607872,
+    "Orientation Y":0.1274416909,
+    "Orientation Z":0.1170036575,
+    "Orientation W":0.9837668468,
+    "angular velocity X":-0.0082839429,
+    "angular velocity Y":0.8996167183,
+    "angular velocity Z":0.0619325414,
+    "linear Acceleration X":-0.4710382501,
+    "linear Acceleration Y":-0.8142756352,
+    "linear Acceleration Z":9.7916477804,
+    "barometer":213.2169342041,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153839674,35.1452675036,75.0663 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:32",
+    "rostime secs":1592229932,
+    "rostime nsecs":856368916,
+    "batttery":90,
+    "heading":77.2738,
+    "velocity":0.370986,
+    "relative position":12,
+    "Orientation X":-0.0623994748,
+    "Orientation Y":0.1970159851,
+    "Orientation Z":0.1170578167,
+    "Orientation W":0.9713848232,
+    "angular velocity X":0.018596299,
+    "angular velocity Y":0.0042250864,
+    "angular velocity Z":-0.0604020283,
+    "linear Acceleration X":-0.8651587437,
+    "linear Acceleration Y":-0.9139447736,
+    "linear Acceleration Z":10.2792267941,
+    "barometer":213.1841583252,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154370172,35.1452756861,74.9535 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:33",
+    "rostime secs":1592229933,
+    "rostime nsecs":856325270,
+    "batttery":90,
+    "heading":75.5775,
+    "velocity":3.86246,
+    "relative position":13,
+    "Orientation X":-0.0517187036,
+    "Orientation Y":-0.0088569607,
+    "Orientation Z":0.1255205129,
+    "Orientation W":0.9907024431,
+    "angular velocity X":0.1614612341,
+    "angular velocity Y":-0.1572992951,
+    "angular velocity Z":-0.0314300843,
+    "linear Acceleration X":-0.8785167937,
+    "linear Acceleration Y":-0.5077375263,
+    "linear Acceleration Z":9.7436826766,
+    "barometer":213.0722351074,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415476889,35.1452851469,74.8704 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:34",
+    "rostime secs":1592229934,
+    "rostime nsecs":856313291,
+    "batttery":90,
+    "heading":75.7197,
+    "velocity":4.92808,
+    "relative position":13,
+    "Orientation X":0.0142335903,
+    "Orientation Y":-0.2092134744,
+    "Orientation Z":0.1191765276,
+    "Orientation W":0.9704762142,
+    "angular velocity X":-0.0773694962,
+    "angular velocity Y":-0.3244718015,
+    "angular velocity Z":-0.057124868,
+    "linear Acceleration X":-0.1105041293,
+    "linear Acceleration Y":-0.4184996706,
+    "linear Acceleration Z":10.7405180615,
+    "barometer":212.9879455566,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154730331,35.1452876317,74.9426 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:35",
+    "rostime secs":1592229935,
+    "rostime nsecs":855469123,
+    "batttery":90,
+    "heading":76.8733,
+    "velocity":1.52535,
+    "relative position":13,
+    "Orientation X":-0.0248420451,
+    "Orientation Y":0.0469854407,
+    "Orientation Z":0.1153171483,
+    "Orientation W":0.9919058405,
+    "angular velocity X":0.0582171641,
+    "angular velocity Y":0.6051938534,
+    "angular velocity Z":-0.0262982752,
+    "linear Acceleration X":-0.3366014437,
+    "linear Acceleration Y":-0.648644183,
+    "linear Acceleration Z":9.7397721414,
+    "barometer":213.0795135498,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154726612,35.1452863629,75.1727 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:36",
+    "rostime secs":1592229936,
+    "rostime nsecs":856297977,
+    "batttery":90,
+    "heading":77.175,
+    "velocity":0.883031,
+    "relative position":13,
+    "Orientation X":-0.0549561094,
+    "Orientation Y":0.0997780963,
+    "Orientation Z":0.1153815889,
+    "Orientation W":0.9867680814,
+    "angular velocity X":-0.0014864728,
+    "angular velocity Y":0.8137919903,
+    "angular velocity Z":0.044429101,
+    "linear Acceleration X":-0.5522099698,
+    "linear Acceleration Y":-0.679613735,
+    "linear Acceleration Z":9.43186452,
+    "barometer":213.2934265137,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154919645,35.1452885346,75.2648 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:37",
+    "rostime secs":1592229937,
+    "rostime nsecs":856340008,
+    "batttery":90,
+    "heading":77.4629,
+    "velocity":0.398426,
+    "relative position":13,
+    "Orientation X":-0.0679557659,
+    "Orientation Y":0.1953428666,
+    "Orientation Z":0.1164195327,
+    "Orientation W":0.9714266162,
+    "angular velocity X":-0.0514777415,
+    "angular velocity Y":-0.0502926707,
+    "angular velocity Z":-0.0536437817,
+    "linear Acceleration X":-0.8587749147,
+    "linear Acceleration Y":-0.8804123284,
+    "linear Acceleration Z":9.9261523157,
+    "barometer":213.3648376465,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415542897,35.145295871,75.044 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:38",
+    "rostime secs":1592229938,
+    "rostime nsecs":856316154,
+    "batttery":90,
+    "heading":75.5464,
+    "velocity":3.56494,
+    "relative position":14,
+    "Orientation X":-0.0625604035,
+    "Orientation Y":0.0102496074,
+    "Orientation Z":0.126762374,
+    "Orientation W":0.9899052692,
+    "angular velocity X":0.1814363599,
+    "angular velocity Y":-0.137822777,
+    "angular velocity Z":-0.2114131451,
+    "linear Acceleration X":-0.8452068501,
+    "linear Acceleration Y":-0.781705562,
+    "linear Acceleration Z":9.5579287487,
+    "barometer":213.1644287109,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155834525,35.1453054798,74.9504 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:39",
+    "rostime secs":1592229939,
+    "rostime nsecs":856411205,
+    "batttery":90,
+    "heading":75.6913,
+    "velocity":4.96381,
+    "relative position":14,
+    "Orientation X":0.0027038467,
+    "Orientation Y":-0.2055922197,
+    "Orientation Z":0.1170275937,
+    "Orientation W":0.9716115843,
+    "angular velocity X":0.0866718665,
+    "angular velocity Y":-0.2832760215,
+    "angular velocity Z":0.0622394197,
+    "linear Acceleration X":-0.294133449,
+    "linear Acceleration Y":-0.6508824153,
+    "linear Acceleration Z":10.4418242079,
+    "barometer":213.0478515625,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155805538,35.1453103771,74.968 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:40",
+    "rostime secs":1592229940,
+    "rostime nsecs":856340528,
+    "batttery":90,
+    "heading":76.6023,
+    "velocity":1.76069,
+    "relative position":14,
+    "Orientation X":-0.01430803,
+    "Orientation Y":0.0307794423,
+    "Orientation Z":0.1171755198,
+    "Orientation W":0.992531009,
+    "angular velocity X":0.0322102606,
+    "angular velocity Y":0.7391424775,
+    "angular velocity Z":-0.0273888186,
+    "linear Acceleration X":-0.4199469162,
+    "linear Acceleration Y":-0.7703595916,
+    "linear Acceleration Z":9.9017228622,
+    "barometer":213.0609130859,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155798222,35.1453086722,75.189 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:41",
+    "rostime secs":1592229941,
+    "rostime nsecs":856319902,
+    "batttery":89,
+    "heading":76.7014,
+    "velocity":0.949451,
+    "relative position":14,
+    "Orientation X":-0.0470361593,
+    "Orientation Y":0.083166849,
+    "Orientation Z":0.1185295848,
+    "Orientation W":0.9883428618,
+    "angular velocity X":0.2013195902,
+    "angular velocity Y":0.7529172301,
+    "angular velocity Z":0.0971330777,
+    "linear Acceleration X":-0.3599785972,
+    "linear Acceleration Y":-0.5499033878,
+    "linear Acceleration Z":9.1875039722,
+    "barometer":213.2948455811,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155970123,35.145309816,75.1628 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:42",
+    "rostime secs":1592229942,
+    "rostime nsecs":856400631,
+    "batttery":89,
+    "heading":77.3095,
+    "velocity":0.264522,
+    "relative position":14,
+    "Orientation X":-0.0669901166,
+    "Orientation Y":0.1968005305,
+    "Orientation Z":0.1176599203,
+    "Orientation W":0.9710499568,
+    "angular velocity X":0.0543815419,
+    "angular velocity Y":-0.1608813703,
+    "angular velocity Z":0.0018868335,
+    "linear Acceleration X":-0.9906059268,
+    "linear Acceleration Y":-0.9623075613,
+    "linear Acceleration Z":10.2480254667,
+    "barometer":213.2728424072,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415647763,35.1453166848,74.9632 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:43",
+    "rostime secs":1592229943,
+    "rostime nsecs":856404745,
+    "batttery":89,
+    "heading":75.183,
+    "velocity":3.3894,
+    "relative position":15,
+    "Orientation X":-0.068469023,
+    "Orientation Y":0.012182486,
+    "Orientation Z":0.1305162729,
+    "Orientation W":0.9890040862,
+    "angular velocity X":0.229176417,
+    "angular velocity Y":-0.4495030642,
+    "angular velocity Z":0.0630900413,
+    "linear Acceleration X":-0.9970791361,
+    "linear Acceleration Y":-0.8251694464,
+    "linear Acceleration Z":9.6164424832,
+    "barometer":213.0802459717,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156912874,35.1453270855,74.8389 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:44",
+    "rostime secs":1592229944,
+    "rostime nsecs":856303235,
+    "batttery":89,
+    "heading":75.6342,
+    "velocity":5.04604,
+    "relative position":15,
+    "Orientation X":0.0182646416,
+    "Orientation Y":-0.1999224189,
+    "Orientation Z":0.1205063906,
+    "Orientation W":0.9722014396,
+    "angular velocity X":0.1404522359,
+    "angular velocity Y":-0.3220716417,
+    "angular velocity Z":-0.0635087267,
+    "linear Acceleration X":-0.1421465896,
+    "linear Acceleration Y":-0.519851116,
+    "linear Acceleration Z":10.4478354728,
+    "barometer":212.9214019775,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156890114,35.1453308224,74.7616 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:45",
+    "rostime secs":1592229945,
+    "rostime nsecs":855527557,
+    "batttery":89,
+    "heading":77.1909,
+    "velocity":2.07962,
+    "relative position":15,
+    "Orientation X":-0.0260624207,
+    "Orientation Y":0.0284543236,
+    "Orientation Z":0.1124667495,
+    "Orientation W":0.9929060036,
+    "angular velocity X":0.0717871264,
+    "angular velocity Y":0.9765354991,
+    "angular velocity Z":0.0138810799,
+    "linear Acceleration X":-0.4202447411,
+    "linear Acceleration Y":-0.9647505505,
+    "linear Acceleration Z":10.1081750532,
+    "barometer":212.8989562988,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415684721,35.1453303652,75.134 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:46",
+    "rostime secs":1592229946,
+    "rostime nsecs":856416098,
+    "batttery":89,
+    "heading":76.7041,
+    "velocity":1.08035,
+    "relative position":15,
+    "Orientation X":-0.0457310618,
+    "Orientation Y":0.1087823754,
+    "Orientation Z":0.1189284543,
+    "Orientation W":0.9858656539,
+    "angular velocity X":0.1067212224,
+    "angular velocity Y":1.0110397339,
+    "angular velocity Z":0.1189939231,
+    "linear Acceleration X":-0.5350858973,
+    "linear Acceleration Y":-0.8316925305,
+    "linear Acceleration Z":9.409891565,
+    "barometer":213.236038208,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157048397,35.1453306976,75.1908 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:47",
+    "rostime secs":1592229947,
+    "rostime nsecs":856313963,
+    "batttery":89,
+    "heading":77.3124,
+    "velocity":0.396239,
+    "relative position":15,
+    "Orientation X":-0.0761110714,
+    "Orientation Y":0.1932257741,
+    "Orientation Z":0.1193454617,
+    "Orientation W":0.9708900895,
+    "angular velocity X":-0.1322762072,
+    "angular velocity Y":-0.0422789343,
+    "angular velocity Z":0.027203843,
+    "linear Acceleration X":-0.9488577212,
+    "linear Acceleration Y":-0.8892776297,
+    "linear Acceleration Z":10.2264935714,
+    "barometer":213.2819824219,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157560462,35.1453398614,74.9105 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:48",
+    "rostime secs":1592229948,
+    "rostime nsecs":856304014,
+    "batttery":89,
+    "heading":75.263,
+    "velocity":3.60516,
+    "relative position":16,
+    "Orientation X":-0.0537425231,
+    "Orientation Y":0.0003660507,
+    "Orientation Z":0.1291615083,
+    "Orientation W":0.9901661032,
+    "angular velocity X":0.2235621065,
+    "angular velocity Y":-0.5553942919,
+    "angular velocity Z":-0.1019455194,
+    "linear Acceleration X":-0.7566971811,
+    "linear Acceleration Y":-0.839876818,
+    "linear Acceleration Z":9.7617678797,
+    "barometer":213.0367889404,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157971821,35.1453491897,74.8386 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:49",
+    "rostime secs":1592229949,
+    "rostime nsecs":856318597,
+    "batttery":89,
+    "heading":75.4584,
+    "velocity":5.11387,
+    "relative position":16,
+    "Orientation X":-0.0066510251,
+    "Orientation Y":-0.2076805617,
+    "Orientation Z":0.1169181309,
+    "Orientation W":0.9711615205,
+    "angular velocity X":-0.0868279412,
+    "angular velocity Y":-0.3263098001,
+    "angular velocity Z":0.0143713802,
+    "linear Acceleration X":-0.2664179542,
+    "linear Acceleration Y":-0.6227385667,
+    "linear Acceleration Z":10.1340708114,
+    "barometer":212.931854248,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415790215,35.145354853,74.8191 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:50",
+    "rostime secs":1592229950,
+    "rostime nsecs":856281149,
+    "batttery":89,
+    "heading":76.0721,
+    "velocity":1.79903,
+    "relative position":16,
+    "Orientation X":-0.0064814422,
+    "Orientation Y":0.0719015989,
+    "Orientation Z":0.1210481467,
+    "Orientation W":0.9900179277,
+    "angular velocity X":0.0430457518,
+    "angular velocity Y":0.4531841874,
+    "angular velocity Z":0.004780652,
+    "linear Acceleration X":-0.4177499785,
+    "linear Acceleration Y":-0.7333108632,
+    "linear Acceleration Z":10.0556941985,
+    "barometer":212.9492492676,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157933596,35.1453519488,75.1114 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:51",
+    "rostime secs":1592229951,
+    "rostime nsecs":856415940,
+    "batttery":88,
+    "heading":76.6423,
+    "velocity":0.765604,
+    "relative position":16,
+    "Orientation X":-0.0533204128,
+    "Orientation Y":0.0913245053,
+    "Orientation Z":0.1192385765,
+    "Orientation W":0.9872177724,
+    "angular velocity X":0.2284240127,
+    "angular velocity Y":0.8399184942,
+    "angular velocity Z":0.0299941935,
+    "linear Acceleration X":-0.4279420373,
+    "linear Acceleration Y":-0.5981799718,
+    "linear Acceleration Z":9.5747392598,
+    "barometer":213.2319030762,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158120355,35.1453543605,75.0912 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:52",
+    "rostime secs":1592229952,
+    "rostime nsecs":856488388,
+    "batttery":88,
+    "heading":77.1105,
+    "velocity":0.469954,
+    "relative position":16,
+    "Orientation X":-0.0651414821,
+    "Orientation Y":0.1969011245,
+    "Orientation Z":0.1189947531,
+    "Orientation W":0.9709926793,
+    "angular velocity X":-0.0789938867,
+    "angular velocity Y":-0.092287071,
+    "angular velocity Z":-0.0205081757,
+    "linear Acceleration X":-0.950384343,
+    "linear Acceleration Y":-1.0077618374,
+    "linear Acceleration Z":10.2123633016,
+    "barometer":213.1942443848,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158641896,35.1453614478,74.9947 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:53",
+    "rostime secs":1592229953,
+    "rostime nsecs":856382710,
+    "batttery":88,
+    "heading":75.4336,
+    "velocity":3.63652,
+    "relative position":17,
+    "Orientation X":-0.0617741978,
+    "Orientation Y":0.0058058413,
+    "Orientation Z":0.1281079099,
+    "Orientation W":0.98981746,
+    "angular velocity X":0.034697786,
+    "angular velocity Y":-0.1778078228,
+    "angular velocity Z":0.0767660812,
+    "linear Acceleration X":-0.862723714,
+    "linear Acceleration Y":-0.6771994439,
+    "linear Acceleration Z":9.6558668005,
+    "barometer":213.0998077393,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159059616,35.1453711612,74.8608 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:54",
+    "rostime secs":1592229954,
+    "rostime nsecs":856445627,
+    "batttery":88,
+    "heading":75.5068,
+    "velocity":5.07192,
+    "relative position":17,
+    "Orientation X":0.0036301187,
+    "Orientation Y":-0.2074379303,
+    "Orientation Z":0.1182719824,
+    "Orientation W":0.971065428,
+    "angular velocity X":0.0847910494,
+    "angular velocity Y":-0.0024241526,
+    "angular velocity Z":-0.1809415817,
+    "linear Acceleration X":-0.2546598411,
+    "linear Acceleration Y":-0.6027164979,
+    "linear Acceleration Z":10.6685417808,
+    "barometer":212.9538269043,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159006788,35.145374504,74.9651 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:55",
+    "rostime secs":1592229955,
+    "rostime nsecs":856358960,
+    "batttery":88,
+    "heading":76.2708,
+    "velocity":1.68053,
+    "relative position":17,
+    "Orientation X":-0.0277158387,
+    "Orientation Y":0.0588236701,
+    "Orientation Z":0.1207795016,
+    "Orientation W":0.9905472831,
+    "angular velocity X":-0.0704846382,
+    "angular velocity Y":0.6870713234,
+    "angular velocity Z":0.0556659922,
+    "linear Acceleration X":-0.4039960335,
+    "linear Acceleration Y":-0.7908664611,
+    "linear Acceleration Z":9.7298392417,
+    "barometer":213.0973358154,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159027138,35.1453722577,75.3014 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:56",
+    "rostime secs":1592229956,
+    "rostime nsecs":856336095,
+    "batttery":88,
+    "heading":76.3717,
+    "velocity":0.827651,
+    "relative position":17,
+    "Orientation X":-0.055865453,
+    "Orientation Y":0.103463378,
+    "Orientation Z":0.1220516625,
+    "Orientation W":0.9855342573,
+    "angular velocity X":-0.0391823538,
+    "angular velocity Y":0.8556502461,
+    "angular velocity Z":0.0603567921,
+    "linear Acceleration X":-0.4456240796,
+    "linear Acceleration Y":-0.7731612704,
+    "linear Acceleration Z":9.368533595,
+    "barometer":213.4270172119,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159221828,35.1453742747,75.3437 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:57",
+    "rostime secs":1592229957,
+    "rostime nsecs":856365886,
+    "batttery":88,
+    "heading":77.2486,
+    "velocity":0.415346,
+    "relative position":17,
+    "Orientation X":-0.0705511462,
+    "Orientation Y":0.1957619065,
+    "Orientation Z":0.1187412403,
+    "Orientation W":0.9708760629,
+    "angular velocity X":0.0287840068,
+    "angular velocity Y":-0.0685042441,
+    "angular velocity Z":-0.0661148503,
+    "linear Acceleration X":-0.8258464439,
+    "linear Acceleration Y":-0.8800879596,
+    "linear Acceleration Z":10.1755643123,
+    "barometer":213.4678497314,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415973729,35.1453831125,75.0135 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:58",
+    "rostime secs":1592229958,
+    "rostime nsecs":856297865,
+    "batttery":88,
+    "heading":75.2396,
+    "velocity":3.58718,
+    "relative position":18,
+    "Orientation X":-0.0525727824,
+    "Orientation Y":-0.0049024716,
+    "Orientation Z":0.1286069409,
+    "Orientation W":0.9902890099,
+    "angular velocity X":0.0597164445,
+    "angular velocity Y":-0.2036441565,
+    "angular velocity Z":-0.1467152685,
+    "linear Acceleration X":-0.7169106691,
+    "linear Acceleration Y":-0.6346001536,
+    "linear Acceleration Z":9.613671109,
+    "barometer":213.1301269531,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160137517,35.1453929698,74.8689 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:05:59",
+    "rostime secs":1592229959,
+    "rostime nsecs":856356666,
+    "batttery":88,
+    "heading":75.6164,
+    "velocity":5.02435,
+    "relative position":18,
+    "Orientation X":0.0056131277,
+    "Orientation Y":-0.2076729546,
+    "Orientation Z":0.1177048501,
+    "Orientation W":0.971074665,
+    "angular velocity X":-0.0397770703,
+    "angular velocity Y":-0.140789628,
+    "angular velocity Z":-0.1231661588,
+    "linear Acceleration X":-0.1458416335,
+    "linear Acceleration Y":-0.5378934545,
+    "linear Acceleration Z":10.865893536,
+    "barometer":212.9851379395,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160072776,35.1453973292,74.8871 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:00",
+    "rostime secs":1592229960,
+    "rostime nsecs":856370729,
+    "batttery":87,
+    "heading":75.9429,
+    "velocity":1.54193,
+    "relative position":18,
+    "Orientation X":-0.0127203844,
+    "Orientation Y":0.0733070763,
+    "Orientation Z":0.1225755041,
+    "Orientation W":0.9896663631,
+    "angular velocity X":-0.0867335498,
+    "angular velocity Y":0.3738281727,
+    "angular velocity Z":-0.0011416934,
+    "linear Acceleration X":-0.2492591592,
+    "linear Acceleration Y":-0.5341946864,
+    "linear Acceleration Z":9.902715977,
+    "barometer":213.0175476074,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.416009528,35.1453944363,75.3715 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:01",
+    "rostime secs":1592229961,
+    "rostime nsecs":856358228,
+    "batttery":87,
+    "heading":90.5599,
+    "velocity":0.77697,
+    "relative position":18,
+    "Orientation X":-0.0545580628,
+    "Orientation Y":0.0301550006,
+    "Orientation Z":-0.0241543589,
+    "Orientation W":0.9977628279,
+    "angular velocity X":0.1465398967,
+    "angular velocity Y":-0.0703205764,
+    "angular velocity Z":-1.5271332264,
+    "linear Acceleration X":-0.3473880934,
+    "linear Acceleration Y":-0.6969439518,
+    "linear Acceleration Z":9.0709549507,
+    "barometer":213.484664917,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160137091,35.1453939335,75.2841 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:02",
+    "rostime secs":1592229962,
+    "rostime nsecs":856297290,
+    "batttery":87,
+    "heading":160.995,
+    "velocity":0.268757,
+    "relative position":18,
+    "Orientation X":-0.0525736765,
+    "Orientation Y":-0.0278275671,
+    "Orientation Z":-0.5831920338,
+    "Orientation W":0.8101534958,
+    "angular velocity X":0.0635806173,
+    "angular velocity Y":-0.3187785745,
+    "angular velocity Z":-0.3104749918,
+    "linear Acceleration X":0.9031070442,
+    "linear Acceleration Y":-0.5487345064,
+    "linear Acceleration Z":9.3388085033,
+    "barometer":213.4109954834,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160188205,35.145384712,74.9293 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:03",
+    "rostime secs":1592229963,
+    "rostime nsecs":856382238,
+    "batttery":87,
+    "heading":165.146,
+    "velocity":0.332996,
+    "relative position":18,
+    "Orientation X":0.0915315921,
+    "Orientation Y":0.129258539,
+    "Orientation Z":-0.6024527558,
+    "Orientation W":0.7822818384,
+    "angular velocity X":-0.1278880686,
+    "angular velocity Y":-0.0708782226,
+    "angular velocity Z":0.0134333968,
+    "linear Acceleration X":0.3591443444,
+    "linear Acceleration Y":-0.4842303916,
+    "linear Acceleration Z":10.662268801,
+    "barometer":213.0203399658,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160265773,35.1453466704,74.9303 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:04",
+    "rostime secs":1592229964,
+    "rostime nsecs":856434529,
+    "batttery":87,
+    "heading":164.73,
+    "velocity":2.88505,
+    "relative position":28,
+    "Orientation X":-0.0345996696,
+    "Orientation Y":-0.0087581166,
+    "Orientation Z":-0.6084625141,
+    "Orientation W":0.7927796209,
+    "angular velocity X":0.1249225438,
+    "angular velocity Y":-0.4144267142,
+    "angular velocity Z":-0.0352619402,
+    "linear Acceleration X":-0.0902928941,
+    "linear Acceleration Y":-0.557455368,
+    "linear Acceleration Z":9.3494909125,
+    "barometer":213.0462493896,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160347803,35.1453089179,75.1942 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:05",
+    "rostime secs":1592229965,
+    "rostime nsecs":856309320,
+    "batttery":87,
+    "heading":164.722,
+    "velocity":4.79284,
+    "relative position":28,
+    "Orientation X":-0.1387760656,
+    "Orientation Y":-0.1262627687,
+    "Orientation Z":-0.6023033212,
+    "Orientation W":0.7759056812,
+    "angular velocity X":0.03257614,
+    "angular velocity Y":-0.1748953909,
+    "angular velocity Z":0.0447678193,
+    "linear Acceleration X":0.3021950211,
+    "linear Acceleration Y":-0.6942457467,
+    "linear Acceleration Z":10.2577159295,
+    "barometer":213.2930755615,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160380605,35.1452977644,75.0287 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:06",
+    "rostime secs":1592229966,
+    "rostime nsecs":856410674,
+    "batttery":87,
+    "heading":165.048,
+    "velocity":2.91975,
+    "relative position":28,
+    "Orientation X":-0.1302875934,
+    "Orientation Y":-0.1408230886,
+    "Orientation Z":-0.6020548282,
+    "Orientation W":0.7750638584,
+    "angular velocity X":-0.0901527852,
+    "angular velocity Y":0.482344687,
+    "angular velocity Z":-0.0154394032,
+    "linear Acceleration X":1.1436689282,
+    "linear Acceleration Y":-0.6870861929,
+    "linear Acceleration Z":9.7722756175,
+    "barometer":213.1468811035,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160360967,35.1453036145,74.8764 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:07",
+    "rostime secs":1592229967,
+    "rostime nsecs":856365986,
+    "batttery":87,
+    "heading":165.822,
+    "velocity":0.734896,
+    "relative position":28,
+    "Orientation X":-0.0191321948,
+    "Orientation Y":0.0314524661,
+    "Orientation Z":-0.6152754112,
+    "Orientation W":0.7874521382,
+    "angular velocity X":-0.3607851565,
+    "angular velocity Y":-0.0533210114,
+    "angular velocity Z":-0.1239498854,
+    "linear Acceleration X":0.8681674431,
+    "linear Acceleration Y":-0.3798663035,
+    "linear Acceleration Z":9.4970695109,
+    "barometer":212.9994659424,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160378415,35.1453014905,74.7439 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:08",
+    "rostime secs":1592229968,
+    "rostime nsecs":856347861,
+    "batttery":87,
+    "heading":238.752,
+    "velocity":0.200227,
+    "relative position":28,
+    "Orientation X":0.0213821043,
+    "Orientation Y":0.0373160218,
+    "Orientation Z":0.9666485818,
+    "Orientation W":-0.2524694824,
+    "angular velocity X":-0.0595595799,
+    "angular velocity Y":0.2979340553,
+    "angular velocity Z":-1.0777728558,
+    "linear Acceleration X":0.8230406028,
+    "linear Acceleration Y":0.6472357127,
+    "linear Acceleration Z":9.8764872333,
+    "barometer":212.8585968018,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160380145,35.1453019369,74.9931 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:09",
+    "rostime secs":1592229969,
+    "rostime nsecs":856421767,
+    "batttery":86,
+    "heading":255.608,
+    "velocity":0.258602,
+    "relative position":28,
+    "Orientation X":0.0093148402,
+    "Orientation Y":0.0497789157,
+    "Orientation Z":0.9912880919,
+    "Orientation W":-0.1215862336,
+    "angular velocity X":-0.3753867149,
+    "angular velocity Y":-0.1046447754,
+    "angular velocity Z":-0.0185773149,
+    "linear Acceleration X":0.5371568336,
+    "linear Acceleration Y":0.4565371689,
+    "linear Acceleration Z":9.4783516354,
+    "barometer":213.1200866699,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160228236,35.145299401,74.91 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:10",
+    "rostime secs":1592229970,
+    "rostime nsecs":856344683,
+    "batttery":86,
+    "heading":255.213,
+    "velocity":0.534554,
+    "relative position":28,
+    "Orientation X":-0.1659087643,
+    "Orientation Y":0.0188375869,
+    "Orientation Z":0.9790019332,
+    "Orientation W":-0.1169386247,
+    "angular velocity X":0.1552897543,
+    "angular velocity Y":0.0713440478,
+    "angular velocity Z":-0.0026956964,
+    "linear Acceleration X":0.2803691347,
+    "linear Acceleration Y":0.6061354413,
+    "linear Acceleration Z":10.3372889535,
+    "barometer":213.030166626,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159712596,35.145290085,75.2045 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:11",
+    "rostime secs":1592229971,
+    "rostime nsecs":856398954,
+    "batttery":86,
+    "heading":256.07,
+    "velocity":3.27138,
+    "relative position":27,
+    "Orientation X":0.0408449224,
+    "Orientation Y":0.0311928409,
+    "Orientation Z":0.9916373159,
+    "Orientation W":-0.1183813025,
+    "angular velocity X":-0.1377011836,
+    "angular velocity Y":-0.160024941,
+    "angular velocity Z":-0.0484830439,
+    "linear Acceleration X":-0.20995104,
+    "linear Acceleration Y":0.5316891529,
+    "linear Acceleration Z":9.4110184581,
+    "barometer":213.3502960205,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159287788,35.1452823195,75.4048 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:12",
+    "rostime secs":1592229972,
+    "rostime nsecs":856403380,
+    "batttery":86,
+    "heading":256.37,
+    "velocity":4.78412,
+    "relative position":27,
+    "Orientation X":0.1847650002,
+    "Orientation Y":0.0453067879,
+    "Orientation Z":0.9747355288,
+    "Orientation W":-0.1170463093,
+    "angular velocity X":-0.0318503305,
+    "angular velocity Y":-0.1596913636,
+    "angular velocity Z":0.0164644849,
+    "linear Acceleration X":-0.1061743683,
+    "linear Acceleration Y":0.3397951108,
+    "linear Acceleration Z":9.8680574419,
+    "barometer":213.5278320313,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159204678,35.1452816602,75.327 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:13",
+    "rostime secs":1592229973,
+    "rostime nsecs":856390724,
+    "batttery":86,
+    "heading":256.295,
+    "velocity":2.50037,
+    "relative position":27,
+    "Orientation X":0.1255378574,
+    "Orientation Y":0.0358661786,
+    "Orientation Z":0.9844892462,
+    "Orientation W":-0.1171955103,
+    "angular velocity X":-0.0595680848,
+    "angular velocity Y":0.984046042,
+    "angular velocity Z":-0.0050651431,
+    "linear Acceleration X":0.4700735414,
+    "linear Acceleration Y":0.4799744569,
+    "linear Acceleration Z":9.7434285561,
+    "barometer":213.4338684082,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159274066,35.1452829074,75.0036 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:14",
+    "rostime secs":1592229974,
+    "rostime nsecs":856270098,
+    "batttery":86,
+    "heading":255.163,
+    "velocity":0.993339,
+    "relative position":27,
+    "Orientation X":0.0191358594,
+    "Orientation Y":0.0251750827,
+    "Orientation Z":0.9915985259,
+    "Orientation W":-0.125428854,
+    "angular velocity X":-0.1487583071,
+    "angular velocity Y":-0.359516561,
+    "angular velocity Z":0.0026410297,
+    "linear Acceleration X":0.5856930148,
+    "linear Acceleration Y":0.1659050699,
+    "linear Acceleration Z":9.5568719578,
+    "barometer":213.1068115234,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159142774,35.145281587,75.1258 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:15",
+    "rostime secs":1592229975,
+    "rostime nsecs":856364369,
+    "batttery":86,
+    "heading":255.326,
+    "velocity":0.0861052,
+    "relative position":27,
+    "Orientation X":-0.1845207345,
+    "Orientation Y":-0.0060496954,
+    "Orientation Z":0.9756576403,
+    "Orientation W":-0.1183539972,
+    "angular velocity X":0.018457206,
+    "angular velocity Y":0.0319870971,
+    "angular velocity Z":-0.0495585203,
+    "linear Acceleration X":-0.019497215,
+    "linear Acceleration Y":0.3196487566,
+    "linear Acceleration Z":10.5790294311,
+    "barometer":213.2379302979,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158648365,35.1452729994,75.2169 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:16",
+    "rostime secs":1592229976,
+    "rostime nsecs":856384420,
+    "batttery":86,
+    "heading":255.826,
+    "velocity":3.21358,
+    "relative position":26,
+    "Orientation X":0.0241391521,
+    "Orientation Y":0.0191857382,
+    "Orientation Z":0.9923059004,
+    "Orientation W":-0.119909169,
+    "angular velocity X":-0.0464602895,
+    "angular velocity Y":-0.2525583804,
+    "angular velocity Z":-0.0248989649,
+    "linear Acceleration X":-0.2819745119,
+    "linear Acceleration Y":0.4331245991,
+    "linear Acceleration Z":9.3938317317,
+    "barometer":213.3363800049,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158216344,35.1452642813,75.3525 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:17",
+    "rostime secs":1592229977,
+    "rostime nsecs":856306035,
+    "batttery":85,
+    "heading":256.181,
+    "velocity":4.91349,
+    "relative position":26,
+    "Orientation X":0.1818202336,
+    "Orientation Y":0.039924627,
+    "Orientation Z":0.9754413727,
+    "Orientation W":-0.1177351064,
+    "angular velocity X":0.1688352376,
+    "angular velocity Y":-0.1679592133,
+    "angular velocity Z":-0.0031816587,
+    "linear Acceleration X":0.0615711039,
+    "linear Acceleration Y":0.3752899798,
+    "linear Acceleration Z":10.2929551445,
+    "barometer":213.4604187012,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158127616,35.1452615963,75.2332 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:18",
+    "rostime secs":1592229978,
+    "rostime nsecs":856185774,
+    "batttery":85,
+    "heading":256.18,
+    "velocity":2.55478,
+    "relative position":26,
+    "Orientation X":0.1209763208,
+    "Orientation Y":0.0480683568,
+    "Orientation Z":0.984159707,
+    "Orientation W":-0.1203488016,
+    "angular velocity X":-0.0138441455,
+    "angular velocity Y":1.0961134434,
+    "angular velocity Z":0.0191045515,
+    "linear Acceleration X":0.5448095126,
+    "linear Acceleration Y":0.4932100472,
+    "linear Acceleration Z":9.9151591201,
+    "barometer":213.3475341797,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158194955,35.1452629024,74.9977 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:19",
+    "rostime secs":1592229979,
+    "rostime nsecs":856336607,
+    "batttery":85,
+    "heading":255.26,
+    "velocity":0.915046,
+    "relative position":26,
+    "Orientation X":0.0079803159,
+    "Orientation Y":0.0245991128,
+    "Orientation Z":0.9918538508,
+    "Orientation W":-0.1247282522,
+    "angular velocity X":-0.0340818539,
+    "angular velocity Y":-0.285705924,
+    "angular velocity Z":0.1255985498,
+    "linear Acceleration X":0.7294655376,
+    "linear Acceleration Y":0.330677551,
+    "linear Acceleration Z":9.7520669015,
+    "barometer":213.1210327148,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158065098,35.1452612886,74.886 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:20",
+    "rostime secs":1592229980,
+    "rostime nsecs":856376606,
+    "batttery":85,
+    "heading":255.646,
+    "velocity":0.0943444,
+    "relative position":26,
+    "Orientation X":-0.1785753029,
+    "Orientation Y":-0.0096355388,
+    "Orientation Z":0.9769009466,
+    "Orientation W":-0.1169724677,
+    "angular velocity X":0.2213174999,
+    "angular velocity Y":0.0068084747,
+    "angular velocity Z":-0.0446692035,
+    "linear Acceleration X":0.2870735352,
+    "linear Acceleration Y":0.5982255017,
+    "linear Acceleration Z":10.5379390179,
+    "barometer":213.0083007813,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157574068,35.1452519762,75.1363 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:21",
+    "rostime secs":1592229981,
+    "rostime nsecs":856364471,
+    "batttery":85,
+    "heading":255.849,
+    "velocity":3.29386,
+    "relative position":25,
+    "Orientation X":0.0323622524,
+    "Orientation Y":0.0168833701,
+    "Orientation Z":0.9921327099,
+    "Orientation W":-0.1197510852,
+    "angular velocity X":0.0495626107,
+    "angular velocity Y":-0.2651373744,
+    "angular velocity Z":-0.0341916904,
+    "linear Acceleration X":-0.1284074135,
+    "linear Acceleration Y":0.4174506567,
+    "linear Acceleration Z":9.1843441148,
+    "barometer":213.2788543701,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157132399,35.145243712,75.1609 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:22",
+    "rostime secs":1592229982,
+    "rostime nsecs":856307126,
+    "batttery":85,
+    "heading":255.832,
+    "velocity":4.87458,
+    "relative position":25,
+    "Orientation X":0.1873196295,
+    "Orientation Y":0.0322333293,
+    "Orientation Z":0.9745224393,
+    "Orientation W":-0.1190730203,
+    "angular velocity X":0.0456414297,
+    "angular velocity Y":0.1410474777,
+    "angular velocity Z":-0.0541982092,
+    "linear Acceleration X":0.0630953707,
+    "linear Acceleration Y":0.3421741682,
+    "linear Acceleration Z":10.3570098749,
+    "barometer":213.2935638428,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157038567,35.1452406735,75.0348 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:23",
+    "rostime secs":1592229983,
+    "rostime nsecs":856400303,
+    "batttery":85,
+    "heading":256.219,
+    "velocity":2.54895,
+    "relative position":25,
+    "Orientation X":0.1364459626,
+    "Orientation Y":0.0445361279,
+    "Orientation Z":0.9824293617,
+    "Orientation W":-0.1192961936,
+    "angular velocity X":0.1076098233,
+    "angular velocity Y":1.1770631075,
+    "angular velocity Z":-0.0466066077,
+    "linear Acceleration X":0.8198443799,
+    "linear Acceleration Y":0.4906293364,
+    "linear Acceleration Z":10.0278495988,
+    "barometer":213.1581726074,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157106598,35.1452414107,74.7206 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:24",
+    "rostime secs":1592229984,
+    "rostime nsecs":856309626,
+    "batttery":85,
+    "heading":255.392,
+    "velocity":0.901017,
+    "relative position":25,
+    "Orientation X":-0.0047505664,
+    "Orientation Y":0.0274194051,
+    "Orientation Z":0.9919945631,
+    "Orientation W":-0.1231762767,
+    "angular velocity X":-0.0460230038,
+    "angular velocity Y":0.3073804379,
+    "angular velocity Z":0.0089318212,
+    "linear Acceleration X":0.9250506439,
+    "linear Acceleration Y":0.3549617615,
+    "linear Acceleration Z":9.2348913168,
+    "barometer":212.8462371826,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156975558,35.1452387005,74.7095 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:25",
+    "rostime secs":1592229985,
+    "rostime nsecs":856280823,
+    "batttery":85,
+    "heading":255.519,
+    "velocity":0.0571387,
+    "relative position":25,
+    "Orientation X":-0.1679019306,
+    "Orientation Y":0.00350539,
+    "Orientation Z":0.9789082309,
+    "Orientation W":-0.1163414348,
+    "angular velocity X":0.3099957705,
+    "angular velocity Y":-0.1761190593,
+    "angular velocity Z":-0.009072003,
+    "linear Acceleration X":0.1325539047,
+    "linear Acceleration Y":0.4520952077,
+    "linear Acceleration Z":10.3345830081,
+    "barometer":212.8234863281,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156475389,35.1452304008,75.1136 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:26",
+    "rostime secs":1592229986,
+    "rostime nsecs":856381552,
+    "batttery":84,
+    "heading":255.88,
+    "velocity":3.44371,
+    "relative position":24,
+    "Orientation X":0.0378911863,
+    "Orientation Y":0.0067553412,
+    "Orientation Z":0.9921466884,
+    "Orientation W":-0.1190108061,
+    "angular velocity X":0.0335100293,
+    "angular velocity Y":-0.1385576725,
+    "angular velocity Z":-0.004181616,
+    "linear Acceleration X":-0.1033416729,
+    "linear Acceleration Y":0.4041566479,
+    "linear Acceleration Z":9.3063844764,
+    "barometer":213.208480835,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156060671,35.1452218533,75.0949 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:27",
+    "rostime secs":1592229987,
+    "rostime nsecs":856293687,
+    "batttery":84,
+    "heading":256,
+    "velocity":4.83962,
+    "relative position":24,
+    "Orientation X":0.1780828279,
+    "Orientation Y":0.0327784473,
+    "Orientation Z":0.9764086312,
+    "Orientation W":-0.1176361543,
+    "angular velocity X":0.1609885544,
+    "angular velocity Y":0.1329034269,
+    "angular velocity Z":-0.0439805724,
+    "linear Acceleration X":0.1747306102,
+    "linear Acceleration Y":0.401091319,
+    "linear Acceleration Z":10.5451303368,
+    "barometer":213.226776123,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155983277,35.145219172,75.0011 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:28",
+    "rostime secs":1592229988,
+    "rostime nsecs":856292385,
+    "batttery":84,
+    "heading":256.078,
+    "velocity":2.42395,
+    "relative position":24,
+    "Orientation X":0.1094297578,
+    "Orientation Y":0.0400965539,
+    "Orientation Z":0.9859080204,
+    "Orientation W":-0.1200115399,
+    "angular velocity X":-0.0670062974,
+    "angular velocity Y":0.946257472,
+    "angular velocity Z":-0.0595274717,
+    "linear Acceleration X":0.7496254741,
+    "linear Acceleration Y":0.4841830726,
+    "linear Acceleration Z":9.8290397176,
+    "barometer":213.1209259033,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156039718,35.1452201495,74.7754 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:29",
+    "rostime secs":1592229989,
+    "rostime nsecs":856407124,
+    "batttery":84,
+    "heading":255.571,
+    "velocity":0.866347,
+    "relative position":24,
+    "Orientation X":0.0123264118,
+    "Orientation Y":0.0236927501,
+    "Orientation Z":0.9921958327,
+    "Orientation W":-0.1217954957,
+    "angular velocity X":-0.0691469535,
+    "angular velocity Y":-0.159242928,
+    "angular velocity Z":-0.1173991859,
+    "linear Acceleration X":0.8278247138,
+    "linear Acceleration Y":0.3779360098,
+    "linear Acceleration Z":9.4906726838,
+    "barometer":212.8986358643,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155919887,35.1452175692,74.8354 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:30",
+    "rostime secs":1592229990,
+    "rostime nsecs":856276655,
+    "batttery":84,
+    "heading":255.671,
+    "velocity":0.0139227,
+    "relative position":24,
+    "Orientation X":-0.176818047,
+    "Orientation Y":0.0000819966963872026,
+    "Orientation Z":0.977493344,
+    "Orientation W":-0.1150744714,
+    "angular velocity X":0.2290067822,
+    "angular velocity Y":-0.1576749086,
+    "angular velocity Z":-0.0229256004,
+    "linear Acceleration X":0.0246238776,
+    "linear Acceleration Y":0.2424082377,
+    "linear Acceleration Z":10.4896806532,
+    "barometer":212.9636993408,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155429465,35.1452092367,75.1632 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:31",
+    "rostime secs":1592229991,
+    "rostime nsecs":856274935,
+    "batttery":84,
+    "heading":255.96,
+    "velocity":3.28903,
+    "relative position":23,
+    "Orientation X":0.0223988111,
+    "Orientation Y":0.0025766006,
+    "Orientation Z":0.9926918499,
+    "Orientation W":-0.1185518682,
+    "angular velocity X":-0.0057154372,
+    "angular velocity Y":-0.4534316361,
+    "angular velocity Z":0.0851467401,
+    "linear Acceleration X":-0.20973407,
+    "linear Acceleration Y":0.1786185813,
+    "linear Acceleration Z":9.1676556984,
+    "barometer":213.3229217529,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155002043,35.1452005065,75.2427 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:32",
+    "rostime secs":1592229992,
+    "rostime nsecs":856354258,
+    "batttery":84,
+    "heading":256.384,
+    "velocity":4.92008,
+    "relative position":23,
+    "Orientation X":0.1819630174,
+    "Orientation Y":0.0358653127,
+    "Orientation Z":0.9758648125,
+    "Orientation W":-0.1152866314,
+    "angular velocity X":0.0369402394,
+    "angular velocity Y":-0.0886036828,
+    "angular velocity Z":-0.0139196962,
+    "linear Acceleration X":0.1156534839,
+    "linear Acceleration Y":0.2798282888,
+    "linear Acceleration Z":10.3536706728,
+    "barometer":213.3606872559,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415490724,35.1451981749,75.0054 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:33",
+    "rostime secs":1592229993,
+    "rostime nsecs":856352435,
+    "batttery":84,
+    "heading":256.284,
+    "velocity":2.55163,
+    "relative position":23,
+    "Orientation X":0.1170922942,
+    "Orientation Y":0.034423823,
+    "Orientation Z":0.9855149183,
+    "Orientation W":-0.1177486338,
+    "angular velocity X":0.0142160226,
+    "angular velocity Y":0.906763792,
+    "angular velocity Z":-0.039985463,
+    "linear Acceleration X":0.7629553372,
+    "linear Acceleration Y":0.366824042,
+    "linear Acceleration Z":9.9325982144,
+    "barometer":213.1063079834,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154981383,35.1451989567,74.7732 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:34",
+    "rostime secs":1592229994,
+    "rostime nsecs":856280872,
+    "batttery":83,
+    "heading":255.221,
+    "velocity":0.871551,
+    "relative position":23,
+    "Orientation X":0.0014428473,
+    "Orientation Y":0.0264411807,
+    "Orientation Z":0.9918144641,
+    "Orientation W":-0.1249113722,
+    "angular velocity X":0.0023489892,
+    "angular velocity Y":-0.3775517344,
+    "angular velocity Z":-0.0440124907,
+    "linear Acceleration X":0.6311657292,
+    "linear Acceleration Y":0.3454218358,
+    "linear Acceleration Z":9.5947884933,
+    "barometer":212.8969421387,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154834936,35.1451969058,74.889 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:35",
+    "rostime secs":1592229995,
+    "rostime nsecs":856307382,
+    "batttery":83,
+    "heading":255.692,
+    "velocity":0.0522315,
+    "relative position":23,
+    "Orientation X":-0.1704697552,
+    "Orientation Y":-0.0108144232,
+    "Orientation Z":0.9783317626,
+    "Orientation W":-0.1170045853,
+    "angular velocity X":-0.0486005992,
+    "angular velocity Y":-0.0220089406,
+    "angular velocity Z":0.0170288421,
+    "linear Acceleration X":0.0236134929,
+    "linear Acceleration Y":0.4385401413,
+    "linear Acceleration Z":10.2947030264,
+    "barometer":213.0391845703,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154353479,35.1451888492,75.1309 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:36",
+    "rostime secs":1592229996,
+    "rostime nsecs":856293892,
+    "batttery":83,
+    "heading":255.939,
+    "velocity":3.25399,
+    "relative position":22,
+    "Orientation X":0.0250241828,
+    "Orientation Y":0.0004570865,
+    "Orientation Z":0.9926272212,
+    "Orientation W":-0.1185950295,
+    "angular velocity X":-0.0726020187,
+    "angular velocity Y":-0.2405043989,
+    "angular velocity Z":0.1096913368,
+    "linear Acceleration X":-0.225065041,
+    "linear Acceleration Y":0.0949235287,
+    "linear Acceleration Z":9.4125192297,
+    "barometer":213.2471160889,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153920055,35.145179568,75.0604 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:37",
+    "rostime secs":1592229997,
+    "rostime nsecs":856227433,
+    "batttery":83,
+    "heading":256.49,
+    "velocity":4.87853,
+    "relative position":22,
+    "Orientation X":0.182196182,
+    "Orientation Y":0.0420903277,
+    "Orientation Z":0.9755405224,
+    "Orientation W":-0.1155579713,
+    "angular velocity X":0.0464785881,
+    "angular velocity Y":-0.0256524812,
+    "angular velocity Z":-0.0377886146,
+    "linear Acceleration X":0.0250870999,
+    "linear Acceleration Y":0.2194658092,
+    "linear Acceleration Z":10.6834349964,
+    "barometer":213.2020721436,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153846091,35.1451769204,75.0048 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:38",
+    "rostime secs":1592229998,
+    "rostime nsecs":856286079,
+    "batttery":83,
+    "heading":256.161,
+    "velocity":2.50079,
+    "relative position":22,
+    "Orientation X":0.1075366169,
+    "Orientation Y":0.0352851825,
+    "Orientation Z":0.9864523885,
+    "Orientation W":-0.1187540196,
+    "angular velocity X":0.084897615,
+    "angular velocity Y":1.0971562862,
+    "angular velocity Z":0.0055195671,
+    "linear Acceleration X":0.5165716468,
+    "linear Acceleration Y":0.2215909468,
+    "linear Acceleration Z":9.9823158735,
+    "barometer":213.1245269775,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415390206,35.1451772133,74.8009 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:39",
+    "rostime secs":1592229999,
+    "rostime nsecs":856241703,
+    "batttery":83,
+    "heading":255.598,
+    "velocity":0.866058,
+    "relative position":22,
+    "Orientation X":0.0021904915,
+    "Orientation Y":0.0250140684,
+    "Orientation Z":0.9922670244,
+    "Orientation W":-0.1215551329,
+    "angular velocity X":-0.1187097579,
+    "angular velocity Y":0.0989130288,
+    "angular velocity Z":-0.0889372826,
+    "linear Acceleration X":0.6097362489,
+    "linear Acceleration Y":0.3419561576,
+    "linear Acceleration Z":9.7986895478,
+    "barometer":212.9188232422,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153771376,35.1451752462,75.0399 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:40",
+    "rostime secs":1592230000,
+    "rostime nsecs":856276599,
+    "batttery":83,
+    "heading":255.965,
+    "velocity":0.0263003,
+    "relative position":22,
+    "Orientation X":-0.1786052692,
+    "Orientation Y":-0.0083326267,
+    "Orientation Z":0.977245552,
+    "Orientation W":-0.1141133484,
+    "angular velocity X":0.0801142976,
+    "angular velocity Y":-0.1733050197,
+    "angular velocity Z":0.0207499005,
+    "linear Acceleration X":0.0376423883,
+    "linear Acceleration Y":0.2584875681,
+    "linear Acceleration Z":10.3231166224,
+    "barometer":213.1557922363,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153273372,35.1451660065,75.2718 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:41",
+    "rostime secs":1592230001,
+    "rostime nsecs":856354671,
+    "batttery":83,
+    "heading":256.205,
+    "velocity":3.30763,
+    "relative position":21,
+    "Orientation X":0.0383784884,
+    "Orientation Y":0.0136383584,
+    "Orientation Z":0.9923682193,
+    "Orientation W":-0.1163890203,
+    "angular velocity X":-0.2196343243,
+    "angular velocity Y":-0.0622300543,
+    "angular velocity Z":-0.0258215144,
+    "linear Acceleration X":-0.1590462072,
+    "linear Acceleration Y":0.2594144691,
+    "linear Acceleration Z":9.2857078282,
+    "barometer":213.3904418945,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152843992,35.1451574094,75.2273 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:42",
+    "rostime secs":1592230002,
+    "rostime nsecs":856363473,
+    "batttery":82,
+    "heading":256.352,
+    "velocity":4.88978,
+    "relative position":21,
+    "Orientation X":0.1880692922,
+    "Orientation Y":0.0357196442,
+    "Orientation Z":0.9747128544,
+    "Orientation W":-0.1152774904,
+    "angular velocity X":-0.0056955814,
+    "angular velocity Y":-0.0221882686,
+    "angular velocity Z":-0.0159049015,
+    "linear Acceleration X":-0.0391673123,
+    "linear Acceleration Y":0.2076708742,
+    "linear Acceleration Z":10.5642682414,
+    "barometer":213.3573760986,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152767651,35.1451551516,74.9312 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:43",
+    "rostime secs":1592230003,
+    "rostime nsecs":856267014,
+    "batttery":82,
+    "heading":256.465,
+    "velocity":2.49898,
+    "relative position":21,
+    "Orientation X":0.1014077893,
+    "Orientation Y":0.0334616319,
+    "Orientation Z":0.9874973825,
+    "Orientation W":-0.1159555908,
+    "angular velocity X":-0.0560884476,
+    "angular velocity Y":1.0070647001,
+    "angular velocity Z":-0.0360170193,
+    "linear Acceleration X":0.6704390346,
+    "linear Acceleration Y":0.3866365344,
+    "linear Acceleration Z":10.111121683,
+    "barometer":213.0500030518,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152817849,35.1451559825,74.7346 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:44",
+    "rostime secs":1592230004,
+    "rostime nsecs":856296806,
+    "batttery":82,
+    "heading":255.496,
+    "velocity":0.938347,
+    "relative position":21,
+    "Orientation X":0.0020520919,
+    "Orientation Y":0.0242151627,
+    "Orientation Z":0.9921837379,
+    "Orientation W":-0.1223962622,
+    "angular velocity X":0.0120174885,
+    "angular velocity Y":0.0044770911,
+    "angular velocity Z":0.0225255527,
+    "linear Acceleration X":0.9470543417,
+    "linear Acceleration Y":0.3366916273,
+    "linear Acceleration Z":9.8023459625,
+    "barometer":212.8611297607,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415267191,35.1451538252,74.8125 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:45",
+    "rostime secs":1592230005,
+    "rostime nsecs":856273368,
+    "batttery":82,
+    "heading":256.021,
+    "velocity":0.090966,
+    "relative position":21,
+    "Orientation X":-0.16788968,
+    "Orientation Y":-0.0138839082,
+    "Orientation Z":0.9789597244,
+    "Orientation W":-0.1151440418,
+    "angular velocity X":0.1878816336,
+    "angular velocity Y":-0.114097923,
+    "angular velocity Z":0.008840953,
+    "linear Acceleration X":0.2289167926,
+    "linear Acceleration Y":0.1585232337,
+    "linear Acceleration Z":10.3257302667,
+    "barometer":212.9364776611,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152184799,35.1451448277,75.1008 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:46",
+    "rostime secs":1592230006,
+    "rostime nsecs":856262273,
+    "batttery":82,
+    "heading":256.048,
+    "velocity":3.30687,
+    "relative position":20,
+    "Orientation X":0.0345064895,
+    "Orientation Y":0.0168195948,
+    "Orientation Z":0.9923137019,
+    "Orientation W":-0.1176431914,
+    "angular velocity X":-0.0944714546,
+    "angular velocity Y":-0.0269964784,
+    "angular velocity Z":-0.0546526164,
+    "linear Acceleration X":-0.3353410278,
+    "linear Acceleration Y":0.34292313,
+    "linear Acceleration Z":9.476984058,
+    "barometer":213.212600708,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151766235,35.1451364387,75.0996 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:47",
+    "rostime secs":1592230007,
+    "rostime nsecs":856241388,
+    "batttery":82,
+    "heading":256.508,
+    "velocity":4.82187,
+    "relative position":20,
+    "Orientation X":0.1881438476,
+    "Orientation Y":0.035770241,
+    "Orientation Z":0.9748538653,
+    "Orientation W":-0.1139400009,
+    "angular velocity X":0.2306236029,
+    "angular velocity Y":-0.0764923319,
+    "angular velocity Z":-0.0398413315,
+    "linear Acceleration X":-0.0369196235,
+    "linear Acceleration Y":0.2628225686,
+    "linear Acceleration Z":10.4802484002,
+    "barometer":213.2206115723,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151698615,35.1451344389,74.9926 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:48",
+    "rostime secs":1592230008,
+    "rostime nsecs":856320137,
+    "batttery":82,
+    "heading":256.316,
+    "velocity":2.36709,
+    "relative position":20,
+    "Orientation X":0.0820557967,
+    "Orientation Y":0.0278392903,
+    "Orientation Z":0.9893238373,
+    "Orientation W":-0.1171757868,
+    "angular velocity X":0.0705536455,
+    "angular velocity Y":1.0031001568,
+    "angular velocity Z":0.0122320168,
+    "linear Acceleration X":0.5848511675,
+    "linear Acceleration Y":0.3149172222,
+    "linear Acceleration Z":9.9691460041,
+    "barometer":213.1042022705,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151740355,35.1451346285,74.8 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:49",
+    "rostime secs":1592230009,
+    "rostime nsecs":856171908,
+    "batttery":82,
+    "heading":254.26,
+    "velocity":0.97291,
+    "relative position":20,
+    "Orientation X":0.0071127384,
+    "Orientation Y":0.0180461173,
+    "Orientation Z":0.9890225414,
+    "Orientation W":-0.1464860378,
+    "angular velocity X":-0.1935591996,
+    "angular velocity Y":-0.279949069,
+    "angular velocity Z":1.195425272,
+    "linear Acceleration X":0.9552578343,
+    "linear Acceleration Y":1.028426948,
+    "linear Acceleration Z":9.578400348,
+    "barometer":212.937713623,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151707286,35.1451348173,74.738 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:50",
+    "rostime secs":1592230010,
+    "rostime nsecs":856158157,
+    "batttery":81,
+    "heading":174.249,
+    "velocity":0.145221,
+    "relative position":20,
+    "Orientation X":-0.0405988289,
+    "Orientation Y":0.0136339514,
+    "Orientation Z":-0.6658839604,
+    "Orientation W":0.7448250813,
+    "angular velocity X":-0.0512519255,
+    "angular velocity Y":0.1188873947,
+    "angular velocity Z":0.5559530258,
+    "linear Acceleration X":0.4765744995,
+    "linear Acceleration Y":-0.7342721398,
+    "linear Acceleration Z":9.8274075043,
+    "barometer":212.857208252,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151740141,35.1451315041,74.6775 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:51",
+    "rostime secs":1592230011,
+    "rostime nsecs":856128938,
+    "batttery":81,
+    "heading":167.429,
+    "velocity":0.221892,
+    "relative position":20,
+    "Orientation X":0.0995415996,
+    "Orientation Y":0.1597662181,
+    "Orientation Z":-0.6112233853,
+    "Orientation W":0.7687471618,
+    "angular velocity X":0.2408777773,
+    "angular velocity Y":-0.1923222244,
+    "angular velocity Z":0.1154962853,
+    "linear Acceleration X":0.3707080333,
+    "linear Acceleration Y":-0.809734034,
+    "linear Acceleration Z":10.7514353131,
+    "barometer":212.7808990479,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151858943,35.1450991811,74.8324 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:52",
+    "rostime secs":1592230012,
+    "rostime nsecs":856225084,
+    "batttery":81,
+    "heading":165.245,
+    "velocity":2.50118,
+    "relative position":20,
+    "Orientation X":0.0070127196,
+    "Orientation Y":0.0572644199,
+    "Orientation Z":-0.6094846027,
+    "Orientation W":0.7906959764,
+    "angular velocity X":-0.1477188319,
+    "angular velocity Y":-0.8555703759,
+    "angular velocity Z":-0.0358303338,
+    "linear Acceleration X":-0.0392653641,
+    "linear Acceleration Y":-0.4772525559,
+    "linear Acceleration Z":9.5933800229,
+    "barometer":212.9550476074,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4151984554,35.1450590826,75.157 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:53",
+    "rostime secs":1592230013,
+    "rostime nsecs":856092427,
+    "batttery":81,
+    "heading":164.775,
+    "velocity":5.26849,
+    "relative position":30,
+    "Orientation X":-0.1085423528,
+    "Orientation Y":-0.0941436761,
+    "Orientation Z":-0.6053843645,
+    "Orientation W":0.7828571371,
+    "angular velocity X":0.1049744636,
+    "angular velocity Y":-0.4957431853,
+    "angular velocity Z":-0.0097007984,
+    "linear Acceleration X":-0.051265129,
+    "linear Acceleration Y":-0.6319642373,
+    "linear Acceleration Z":9.7973505955,
+    "barometer":213.2967224121,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152038129,35.1450412863,75.0627 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:54",
+    "rostime secs":1592230014,
+    "rostime nsecs":856103104,
+    "batttery":81,
+    "heading":164.657,
+    "velocity":3.87959,
+    "relative position":30,
+    "Orientation X":-0.1474050234,
+    "Orientation Y":-0.1399576309,
+    "Orientation Z":-0.600292618,
+    "Orientation W":0.7735194848,
+    "angular velocity X":0.0655286312,
+    "angular velocity Y":0.0936859697,
+    "angular velocity Z":-0.004827355,
+    "linear Acceleration X":0.6564596306,
+    "linear Acceleration Y":-0.7671299972,
+    "linear Acceleration Z":10.4199861996,
+    "barometer":213.1777191162,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152036538,35.1450468437,74.8257 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:55",
+    "rostime secs":1592230015,
+    "rostime nsecs":856115083,
+    "batttery":81,
+    "heading":166.164,
+    "velocity":0.0907635,
+    "relative position":30,
+    "Orientation X":-0.0053466307,
+    "Orientation Y":0.0278836257,
+    "Orientation Z":-0.6173332589,
+    "Orientation W":0.7861892675,
+    "angular velocity X":0.0666246861,
+    "angular velocity Y":-0.2169686109,
+    "angular velocity Z":0.1349116415,
+    "linear Acceleration X":0.7456384107,
+    "linear Acceleration Y":-0.7680721417,
+    "linear Acceleration Z":9.9019658833,
+    "barometer":212.9299163818,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152039886,35.1450419322,74.6878 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:56",
+    "rostime secs":1592230016,
+    "rostime nsecs":856262634,
+    "batttery":80,
+    "heading":166.808,
+    "velocity":0.115033,
+    "relative position":30,
+    "Orientation X":0.0790500124,
+    "Orientation Y":0.1666614645,
+    "Orientation Z":-0.6056690284,
+    "Orientation W":0.7740413942,
+    "angular velocity X":0.1363655031,
+    "angular velocity Y":0.0453728288,
+    "angular velocity Z":0.0356170647,
+    "linear Acceleration X":0.4519889226,
+    "linear Acceleration Y":-0.7173977334,
+    "linear Acceleration Z":10.7302457503,
+    "barometer":212.8157806396,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152153814,35.1450092979,74.8364 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:57",
+    "rostime secs":1592230017,
+    "rostime nsecs":856234040,
+    "batttery":80,
+    "heading":165.084,
+    "velocity":2.21126,
+    "relative position":30,
+    "Orientation X":0.0151218726,
+    "Orientation Y":0.0666107425,
+    "Orientation Z":-0.6080569603,
+    "Orientation W":0.7909494743,
+    "angular velocity X":0.0639532954,
+    "angular velocity Y":-0.9528577328,
+    "angular velocity Z":-0.0658327565,
+    "linear Acceleration X":-0.1181872956,
+    "linear Acceleration Y":-0.701349803,
+    "linear Acceleration Z":10.0569910895,
+    "barometer":212.9457397461,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152269996,35.144969008,75.0996 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:58",
+    "rostime secs":1592230018,
+    "rostime nsecs":856260550,
+    "batttery":80,
+    "heading":164.854,
+    "velocity":5.16671,
+    "relative position":40,
+    "Orientation X":-0.1150508629,
+    "Orientation Y":-0.0874596118,
+    "Orientation Z":-0.6066613762,
+    "Orientation W":0.78171356,
+    "angular velocity X":-0.0774677917,
+    "angular velocity Y":-0.7041561007,
+    "angular velocity Z":-0.0126225352,
+    "linear Acceleration X":-0.0787546537,
+    "linear Acceleration Y":-0.929418304,
+    "linear Acceleration Z":9.8260521948,
+    "barometer":213.2319335938,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152322849,35.1449507568,75.2385 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:06:59",
+    "rostime secs":1592230019,
+    "rostime nsecs":856164612,
+    "batttery":79,
+    "heading":164.702,
+    "velocity":3.79284,
+    "relative position":40,
+    "Orientation X":-0.1440502645,
+    "Orientation Y":-0.1382338871,
+    "Orientation Z":-0.6005950956,
+    "Orientation W":0.7742263525,
+    "angular velocity X":0.1032557115,
+    "angular velocity Y":0.0587294698,
+    "angular velocity Z":0.0643821135,
+    "linear Acceleration X":0.6029250885,
+    "linear Acceleration Y":-0.8664443891,
+    "linear Acceleration Z":10.3130756485,
+    "barometer":213.3529052734,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152312547,35.1449554764,74.9394 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:00",
+    "rostime secs":1592230020,
+    "rostime nsecs":856105862,
+    "batttery":79,
+    "heading":166.195,
+    "velocity":0.107425,
+    "relative position":40,
+    "Orientation X":-0.0164332094,
+    "Orientation Y":0.0268491517,
+    "Orientation Z":-0.6176118584,
+    "Orientation W":0.7858528266,
+    "angular velocity X":0.0645716414,
+    "angular velocity Y":-0.207883656,
+    "angular velocity Z":0.016566176,
+    "linear Acceleration X":0.8252900076,
+    "linear Acceleration Y":-0.6443245721,
+    "linear Acceleration Z":9.9739445007,
+    "barometer":213.0532989502,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152330388,35.1449514351,74.8262 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:01",
+    "rostime secs":1592230021,
+    "rostime nsecs":856302476,
+    "batttery":79,
+    "heading":166.813,
+    "velocity":0.300796,
+    "relative position":40,
+    "Orientation X":0.0661974752,
+    "Orientation Y":0.1407323711,
+    "Orientation Z":-0.6108953299,
+    "Orientation W":0.776285508,
+    "angular velocity X":0.1951251924,
+    "angular velocity Y":0.2499471009,
+    "angular velocity Z":-0.0287485756,
+    "linear Acceleration X":0.6091941251,
+    "linear Acceleration Y":-0.8152844499,
+    "linear Acceleration Z":10.7144365325,
+    "barometer":212.958984375,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152420102,35.1449234442,74.8838 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:02",
+    "rostime secs":1592230022,
+    "rostime nsecs":856199351,
+    "batttery":79,
+    "heading":165.463,
+    "velocity":1.50019,
+    "relative position":40,
+    "Orientation X":0.0445919705,
+    "Orientation Y":0.1045366853,
+    "Orientation Z":-0.6066752688,
+    "Orientation W":0.786783805,
+    "angular velocity X":0.1926347315,
+    "angular velocity Y":-0.7952378392,
+    "angular velocity Z":-0.0070516728,
+    "linear Acceleration X":-0.4244984851,
+    "linear Acceleration Y":-0.6709665538,
+    "linear Acceleration Z":10.2027324257,
+    "barometer":212.9982299805,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152537047,35.1448820631,75.0872 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:03",
+    "rostime secs":1592230023,
+    "rostime nsecs":856119038,
+    "batttery":79,
+    "heading":164.693,
+    "velocity":4.90723,
+    "relative position":50,
+    "Orientation X":-0.0936981008,
+    "Orientation Y":-0.0517556041,
+    "Orientation Z":-0.6073616999,
+    "Orientation W":0.7871809124,
+    "angular velocity X":-0.0039625615,
+    "angular velocity Y":-0.9794415832,
+    "angular velocity Z":-0.032541994,
+    "linear Acceleration X":-0.1495445639,
+    "linear Acceleration Y":-0.7186976183,
+    "linear Acceleration Z":9.7584946904,
+    "barometer":213.2085418701,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152597656,35.1448614881,75.2831 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:04",
+    "rostime secs":1592230024,
+    "rostime nsecs":856146381,
+    "batttery":79,
+    "heading":164.796,
+    "velocity":4.01691,
+    "relative position":50,
+    "Orientation X":-0.1535466071,
+    "Orientation Y":-0.1290158791,
+    "Orientation Z":-0.60311816,
+    "Orientation W":0.7720277375,
+    "angular velocity X":0.1106255949,
+    "angular velocity Y":-0.1592089087,
+    "angular velocity Z":0.0136182047,
+    "linear Acceleration X":0.5871957215,
+    "linear Acceleration Y":-0.7325881531,
+    "linear Acceleration Z":10.0762551781,
+    "barometer":213.3929901123,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152585564,35.1448662568,75.084 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:05",
+    "rostime secs":1592230025,
+    "rostime nsecs":856170756,
+    "batttery":79,
+    "heading":166.184,
+    "velocity":0.256882,
+    "relative position":50,
+    "Orientation X":-0.0088824008,
+    "Orientation Y":0.0322026469,
+    "Orientation Z":-0.617641073,
+    "Orientation W":0.7857503404,
+    "angular velocity X":-0.056843441,
+    "angular velocity Y":-0.0276716147,
+    "angular velocity Z":-0.0897891521,
+    "linear Acceleration X":0.7984592611,
+    "linear Acceleration Y":-0.6869405848,
+    "linear Acceleration Z":9.7700475354,
+    "barometer":213.1876068115,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152590159,35.144864149,74.8681 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:06",
+    "rostime secs":1592230026,
+    "rostime nsecs":856393412,
+    "batttery":78,
+    "heading":118.599,
+    "velocity":0.488049,
+    "relative position":50,
+    "Orientation X":-0.0594001379,
+    "Orientation Y":-0.0196983088,
+    "Orientation Z":-0.2431282582,
+    "Orientation W":0.9679732694,
+    "angular velocity X":0.0813474879,
+    "angular velocity Y":0.0390693545,
+    "angular velocity Z":1.537579298,
+    "linear Acceleration X":0.0876224743,
+    "linear Acceleration Y":-0.751297631,
+    "linear Acceleration Z":9.5998726564,
+    "barometer":213.0194854736,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152568382,35.1448643587,74.8967 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:07",
+    "rostime secs":1592230027,
+    "rostime nsecs":856261484,
+    "batttery":78,
+    "heading":78.319,
+    "velocity":0.226427,
+    "relative position":50,
+    "Orientation X":-0.0815953683,
+    "Orientation Y":0.1609196826,
+    "Orientation Z":0.1107939066,
+    "Orientation W":0.9773288914,
+    "angular velocity X":0.1103727892,
+    "angular velocity Y":0.6753717661,
+    "angular velocity Z":0.019926412,
+    "linear Acceleration X":-0.7555123806,
+    "linear Acceleration Y":-0.7903033066,
+    "linear Acceleration Z":10.5702888533,
+    "barometer":213.0177307129,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4152769736,35.144869741,74.9695 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:08",
+    "rostime secs":1592230028,
+    "rostime nsecs":856115963,
+    "batttery":78,
+    "heading":77.3851,
+    "velocity":0.518602,
+    "relative position":50,
+    "Orientation X":-0.0551773547,
+    "Orientation Y":0.1996960899,
+    "Orientation Z":0.1144410467,
+    "Orientation W":0.9715864234,
+    "angular velocity X":0.0075497031,
+    "angular velocity Y":-0.0423340425,
+    "angular velocity Z":-0.0386564806,
+    "linear Acceleration X":-0.8444750852,
+    "linear Acceleration Y":-0.9153179737,
+    "linear Acceleration Z":10.0967180146,
+    "barometer":213.0881347656,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153262413,35.1448769473,75.0515 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:09",
+    "rostime secs":1592230029,
+    "rostime nsecs":856111119,
+    "batttery":78,
+    "heading":76.0827,
+    "velocity":3.871,
+    "relative position":51,
+    "Orientation X":-0.062901906,
+    "Orientation Y":0.0182187568,
+    "Orientation Z":0.1227785692,
+    "Orientation W":0.9902710993,
+    "angular velocity X":0.1630885005,
+    "angular velocity Y":0.085043177,
+    "angular velocity Z":0.050163731,
+    "linear Acceleration X":-0.7766725881,
+    "linear Acceleration Y":-0.946250503,
+    "linear Acceleration Z":9.5381903018,
+    "barometer":213.1525421143,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153680105,35.1448874084,75.1427 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:10",
+    "rostime secs":1592230030,
+    "rostime nsecs":856191483,
+    "batttery":78,
+    "heading":75.6187,
+    "velocity":5.0064,
+    "relative position":51,
+    "Orientation X":0.0073826625,
+    "Orientation Y":-0.2004778193,
+    "Orientation Z":0.1185106889,
+    "Orientation W":0.9724758901,
+    "angular velocity X":0.0920618623,
+    "angular velocity Y":-0.023760587,
+    "angular velocity Z":-0.0931809917,
+    "linear Acceleration X":-0.3887822099,
+    "linear Acceleration Y":-0.5218052153,
+    "linear Acceleration Z":10.2198922795,
+    "barometer":213.2933502197,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153675141,35.1448913826,75.0981 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:11",
+    "rostime secs":1592230031,
+    "rostime nsecs":856097420,
+    "batttery":78,
+    "heading":76.4721,
+    "velocity":2.0378,
+    "relative position":51,
+    "Orientation X":-0.0090447414,
+    "Orientation Y":0.0532084457,
+    "Orientation Z":0.1181164588,
+    "Orientation W":0.9915319239,
+    "angular velocity X":-0.0166349038,
+    "angular velocity Y":0.6841177344,
+    "angular velocity Z":-0.0239337888,
+    "linear Acceleration X":-0.5237043646,
+    "linear Acceleration Y":-0.5063444639,
+    "linear Acceleration Z":10.0322274821,
+    "barometer":213.2360534668,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415364926,35.1448910401,75.2783 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:12",
+    "rostime secs":1592230032,
+    "rostime nsecs":856031430,
+    "batttery":77,
+    "heading":77.2204,
+    "velocity":0.900851,
+    "relative position":51,
+    "Orientation X":-0.0475394966,
+    "Orientation Y":0.1128098372,
+    "Orientation Z":0.1140575024,
+    "Orientation W":0.9859030495,
+    "angular velocity X":0.1173900589,
+    "angular velocity Y":1.0236922503,
+    "angular velocity Z":-0.0007062927,
+    "linear Acceleration X":-0.5470396028,
+    "linear Acceleration Y":-0.7933881692,
+    "linear Acceleration Z":9.7086274799,
+    "barometer":213.4015350342,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4153832086,35.1448927186,75.228 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:13",
+    "rostime secs":1592230033,
+    "rostime nsecs":856077628,
+    "batttery":77,
+    "heading":77.499,
+    "velocity":0.390662,
+    "relative position":51,
+    "Orientation X":-0.0562289922,
+    "Orientation Y":0.1983836442,
+    "Orientation Z":0.1140281652,
+    "Orientation W":0.9718435099,
+    "angular velocity X":-0.0541692711,
+    "angular velocity Y":0.0508897342,
+    "angular velocity Z":-0.0141620412,
+    "linear Acceleration X":-0.9654808549,
+    "linear Acceleration Y":-0.7141709139,
+    "linear Acceleration Z":10.2560556754,
+    "barometer":213.3619232178,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154342158,35.1449005822,75.2407 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:14",
+    "rostime secs":1592230034,
+    "rostime nsecs":856042367,
+    "batttery":77,
+    "heading":75.9851,
+    "velocity":3.56454,
+    "relative position":52,
+    "Orientation X":-0.0553789029,
+    "Orientation Y":0.0187208253,
+    "Orientation Z":0.1236572851,
+    "Orientation W":0.9906016271,
+    "angular velocity X":-0.0155399516,
+    "angular velocity Y":-0.5909623504,
+    "angular velocity Z":-0.0623493865,
+    "linear Acceleration X":-1.0836504059,
+    "linear Acceleration Y":-0.6558534655,
+    "linear Acceleration Z":9.2841731738,
+    "barometer":213.366317749,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154765377,35.1449103478,75.1163 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:15",
+    "rostime secs":1592230035,
+    "rostime nsecs":856093981,
+    "batttery":77,
+    "heading":75.23,
+    "velocity":5.04458,
+    "relative position":52,
+    "Orientation X":0.0125259063,
+    "Orientation Y":-0.2023935586,
+    "Orientation Z":0.122669961,
+    "Orientation W":0.97151018,
+    "angular velocity X":0.3087348938,
+    "angular velocity Y":-0.078652069,
+    "angular velocity Z":-0.0710657835,
+    "linear Acceleration X":-0.1626347286,
+    "linear Acceleration Y":-0.6297603258,
+    "linear Acceleration Z":10.6771877207,
+    "barometer":213.2196807861,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154745995,35.144914159,75.0748 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:16",
+    "rostime secs":1592230036,
+    "rostime nsecs":856250022,
+    "batttery":76,
+    "heading":76.5427,
+    "velocity":1.8974,
+    "relative position":52,
+    "Orientation X":-0.0192657962,
+    "Orientation Y":0.0525499479,
+    "Orientation Z":0.1179396962,
+    "Orientation W":0.9914421618,
+    "angular velocity X":-0.06847433,
+    "angular velocity Y":0.3665884733,
+    "angular velocity Z":-0.0497718826,
+    "linear Acceleration X":-0.6131046238,
+    "linear Acceleration Y":-0.7959669083,
+    "linear Acceleration Z":9.7733908269,
+    "barometer":213.1776123047,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154744951,35.1449122474,75.3102 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:17",
+    "rostime secs":1592230037,
+    "rostime nsecs":856101741,
+    "batttery":76,
+    "heading":76.8577,
+    "velocity":0.838681,
+    "relative position":52,
+    "Orientation X":-0.0468197707,
+    "Orientation Y":0.0818161856,
+    "Orientation Z":0.1168202672,
+    "Orientation W":0.988669331,
+    "angular velocity X":0.113373898,
+    "angular velocity Y":0.8413611054,
+    "angular velocity Z":-0.0639498234,
+    "linear Acceleration X":-0.3284158783,
+    "linear Acceleration Y":-0.4923206984,
+    "linear Acceleration Z":9.0058370034,
+    "barometer":213.439239502,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4154922592,35.1449144303,75.3221 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:18",
+    "rostime secs":1592230038,
+    "rostime nsecs":856230595,
+    "batttery":76,
+    "heading":77.2551,
+    "velocity":0.259443,
+    "relative position":52,
+    "Orientation X":-0.0606606407,
+    "Orientation Y":0.1984722346,
+    "Orientation Z":0.1165311026,
+    "Orientation W":0.9712618395,
+    "angular velocity X":-0.0369792618,
+    "angular velocity Y":-0.0905004591,
+    "angular velocity Z":-0.0428800285,
+    "linear Acceleration X":-0.8176408336,
+    "linear Acceleration Y":-1.0109245426,
+    "linear Acceleration Z":10.0951512301,
+    "barometer":213.4360046387,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155434582,35.144922282,75.2417 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:19",
+    "rostime secs":1592230039,
+    "rostime nsecs":856113355,
+    "batttery":76,
+    "heading":75.724,
+    "velocity":3.35091,
+    "relative position":53,
+    "Orientation X":-0.0549066083,
+    "Orientation Y":0.0146862472,
+    "Orientation Z":0.1257968373,
+    "Orientation W":0.9904265416,
+    "angular velocity X":0.1658941507,
+    "angular velocity Y":-0.1960184276,
+    "angular velocity Z":-0.1988949031,
+    "linear Acceleration X":-0.8736542558,
+    "linear Acceleration Y":-0.68777115,
+    "linear Acceleration Z":9.5796493358,
+    "barometer":213.3668365479,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155857089,35.1449322443,75.0811 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:20",
+    "rostime secs":1592230040,
+    "rostime nsecs":856201063,
+    "batttery":76,
+    "heading":75.4065,
+    "velocity":4.99578,
+    "relative position":53,
+    "Orientation X":0.0156713569,
+    "Orientation Y":-0.2034152051,
+    "Orientation Z":0.121643093,
+    "Orientation W":0.9713802658,
+    "angular velocity X":-0.0116711631,
+    "angular velocity Y":0.155444622,
+    "angular velocity Z":-0.0996620655,
+    "linear Acceleration X":-0.3154863645,
+    "linear Acceleration Y":-0.5492058343,
+    "linear Acceleration Z":10.9934795669,
+    "barometer":213.1604614258,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155851633,35.1449369486,74.9984 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:21",
+    "rostime secs":1592230041,
+    "rostime nsecs":856174552,
+    "batttery":76,
+    "heading":76.2992,
+    "velocity":1.90793,
+    "relative position":53,
+    "Orientation X":-0.0007528099,
+    "Orientation Y":0.0413298372,
+    "Orientation Z":0.119540436,
+    "Orientation W":0.9919684279,
+    "angular velocity X":-0.0089628957,
+    "angular velocity Y":0.7196775675,
+    "angular velocity Z":0.0660736188,
+    "linear Acceleration X":-0.4209074991,
+    "linear Acceleration Y":-0.6148444731,
+    "linear Acceleration Z":9.9873527176,
+    "barometer":213.1416473389,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155830813,35.1449353696,75.2577 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:22",
+    "rostime secs":1592230042,
+    "rostime nsecs":856053458,
+    "batttery":76,
+    "heading":76.9399,
+    "velocity":1.06621,
+    "relative position":53,
+    "Orientation X":-0.0438745789,
+    "Orientation Y":0.0589591179,
+    "Orientation Z":0.1160419504,
+    "Orientation W":0.990521635,
+    "angular velocity X":0.3282516599,
+    "angular velocity Y":0.2938967347,
+    "angular velocity Z":-0.0444478318,
+    "linear Acceleration X":-0.0248742922,
+    "linear Acceleration Y":-0.5694214144,
+    "linear Acceleration Z":8.8387688209,
+    "barometer":213.3515625,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4155997593,35.1449362539,75.2892 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:23",
+    "rostime secs":1592230043,
+    "rostime nsecs":856102259,
+    "batttery":76,
+    "heading":77.255,
+    "velocity":0.230967,
+    "relative position":53,
+    "Orientation X":-0.0613635521,
+    "Orientation Y":0.1960157701,
+    "Orientation Z":0.1168120152,
+    "Orientation W":0.9716827082,
+    "angular velocity X":0.0486137159,
+    "angular velocity Y":0.0754417405,
+    "angular velocity Z":-0.0225948766,
+    "linear Acceleration X":-0.7467764033,
+    "linear Acceleration Y":-0.6659562901,
+    "linear Acceleration Z":10.1308531197,
+    "barometer":213.4340515137,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156499009,35.1449429233,75.2398 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:24",
+    "rostime secs":1592230044,
+    "rostime nsecs":856078926,
+    "batttery":75,
+    "heading":75.535,
+    "velocity":3.22043,
+    "relative position":54,
+    "Orientation X":-0.0608471686,
+    "Orientation Y":0.010856062,
+    "Orientation Z":0.1274445742,
+    "Orientation W":0.9899180009,
+    "angular velocity X":0.0180964619,
+    "angular velocity Y":-0.6811597347,
+    "angular velocity Z":-0.0303723831,
+    "linear Acceleration X":-1.021503478,
+    "linear Acceleration Y":-0.6788391785,
+    "linear Acceleration Z":9.5871707193,
+    "barometer":213.3752746582,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156927673,35.1449538865,75.0452 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:25",
+    "rostime secs":1592230045,
+    "rostime nsecs":856111425,
+    "batttery":75,
+    "heading":75.4596,
+    "velocity":4.99511,
+    "relative position":54,
+    "Orientation X":0.0160274659,
+    "Orientation Y":-0.2030460061,
+    "Orientation Z":0.1211784221,
+    "Orientation W":0.9715097682,
+    "angular velocity X":0.2377225608,
+    "angular velocity Y":-0.0975451171,
+    "angular velocity Z":-0.1455542445,
+    "linear Acceleration X":-0.3120318588,
+    "linear Acceleration Y":-0.4015845173,
+    "linear Acceleration Z":10.7793476783,
+    "barometer":213.1911315918,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415692178,35.1449574463,74.8802 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:26",
+    "rostime secs":1592230046,
+    "rostime nsecs":855964810,
+    "batttery":75,
+    "heading":76.5462,
+    "velocity":2.05112,
+    "relative position":54,
+    "Orientation X":-0.0163663683,
+    "Orientation Y":0.0246886976,
+    "Orientation Z":0.117618022,
+    "Orientation W":0.9926170516,
+    "angular velocity X":0.0152303912,
+    "angular velocity Y":0.9492202997,
+    "angular velocity Z":0.0142188966,
+    "linear Acceleration X":-0.3542788125,
+    "linear Acceleration Y":-0.7002934502,
+    "linear Acceleration Z":10.1818700066,
+    "barometer":213.0269012451,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4156899756,35.1449561018,75.2661 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:27",
+    "rostime secs":1592230047,
+    "rostime nsecs":856075227,
+    "batttery":75,
+    "heading":77.0756,
+    "velocity":0.996828,
+    "relative position":54,
+    "Orientation X":-0.048207535,
+    "Orientation Y":0.0945346883,
+    "Orientation Z":0.1153288691,
+    "Orientation W":0.98764289,
+    "angular velocity X":0.2372343391,
+    "angular velocity Y":0.6425670981,
+    "angular velocity Z":-0.0027746763,
+    "linear Acceleration X":-0.3436191866,
+    "linear Acceleration Y":-0.5832334859,
+    "linear Acceleration Z":9.3754684566,
+    "barometer":213.3867950439,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157088177,35.1449567918,75.3462 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:28",
+    "rostime secs":1592230048,
+    "rostime nsecs":856097205,
+    "batttery":75,
+    "heading":77.6004,
+    "velocity":0.336465,
+    "relative position":54,
+    "Orientation X":-0.0697639083,
+    "Orientation Y":0.1965854406,
+    "Orientation Z":0.1157280392,
+    "Orientation W":0.9711303633,
+    "angular velocity X":0.007557869,
+    "angular velocity Y":-0.0900958925,
+    "angular velocity Z":-0.0262519456,
+    "linear Acceleration X":-0.7908654387,
+    "linear Acceleration Y":-0.9548992907,
+    "linear Acceleration Z":10.0145138208,
+    "barometer":213.472076416,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157596123,35.1449651652,75.2428 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:29",
+    "rostime secs":1592230049,
+    "rostime nsecs":856096580,
+    "batttery":75,
+    "heading":75.4678,
+    "velocity":3.44903,
+    "relative position":55,
+    "Orientation X":-0.0522444247,
+    "Orientation Y":0.0071992533,
+    "Orientation Z":0.1278436983,
+    "Orientation W":0.9903911751,
+    "angular velocity X":-0.019556269,
+    "angular velocity Y":-0.4597084522,
+    "angular velocity Z":-0.0141997896,
+    "linear Acceleration X":-0.8877597707,
+    "linear Acceleration Y":-0.9015872135,
+    "linear Acceleration Z":9.2655271531,
+    "barometer":213.3787841797,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158020974,35.1449750225,75.049 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:30",
+    "rostime secs":1592230050,
+    "rostime nsecs":856042882,
+    "batttery":75,
+    "heading":75.5014,
+    "velocity":4.96096,
+    "relative position":55,
+    "Orientation X":0.0135294021,
+    "Orientation Y":-0.2012733228,
+    "Orientation Z":0.1207409457,
+    "Orientation W":0.9719710021,
+    "angular velocity X":0.2283837795,
+    "angular velocity Y":-0.2230621427,
+    "angular velocity Z":-0.0684272572,
+    "linear Acceleration X":-0.2374107165,
+    "linear Acceleration Y":-0.5840787652,
+    "linear Acceleration Z":10.4837429956,
+    "barometer":213.1917724609,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157984444,35.1449789855,75.0142 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:31",
+    "rostime secs":1592230051,
+    "rostime nsecs":856037204,
+    "batttery":75,
+    "heading":76.4183,
+    "velocity":1.86253,
+    "relative position":55,
+    "Orientation X":-0.0145758786,
+    "Orientation Y":0.0586214572,
+    "Orientation Z":0.1188769529,
+    "Orientation W":0.991069795,
+    "angular velocity X":-0.0018652529,
+    "angular velocity Y":0.4695360065,
+    "angular velocity Z":-0.01107876,
+    "linear Acceleration X":-0.5170113191,
+    "linear Acceleration Y":-0.58474543,
+    "linear Acceleration Z":9.9403889072,
+    "barometer":213.1399383545,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4157994194,35.1449767314,75.3398 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:32",
+    "rostime secs":1592230052,
+    "rostime nsecs":856148402,
+    "batttery":74,
+    "heading":76.5774,
+    "velocity":0.998918,
+    "relative position":55,
+    "Orientation X":-0.0507680469,
+    "Orientation Y":0.0626462097,
+    "Orientation Z":0.1195386992,
+    "Orientation W":0.9895496739,
+    "angular velocity X":-0.0400629565,
+    "angular velocity Y":0.550812304,
+    "angular velocity Z":0.0323240682,
+    "linear Acceleration X":-0.2232414159,
+    "linear Acceleration Y":-0.5674251443,
+    "linear Acceleration Z":8.9733078232,
+    "barometer":213.4511413574,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158151551,35.1449786253,75.2942 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:33",
+    "rostime secs":1592230053,
+    "rostime nsecs":856030693,
+    "batttery":74,
+    "heading":77.2559,
+    "velocity":0.319141,
+    "relative position":55,
+    "Orientation X":-0.055475059,
+    "Orientation Y":0.1987471296,
+    "Orientation Z":0.1153987387,
+    "Orientation W":0.9716507744,
+    "angular velocity X":0.2124554217,
+    "angular velocity Y":0.0129979439,
+    "angular velocity Z":-0.067630291,
+    "linear Acceleration X":-0.827184812,
+    "linear Acceleration Y":-0.7158853512,
+    "linear Acceleration Z":9.9957708253,
+    "barometer":213.4075469971,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4158664282,35.1449871262,75.166 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:34",
+    "rostime secs":1592230054,
+    "rostime nsecs":856040484,
+    "batttery":74,
+    "heading":75.4522,
+    "velocity":3.28208,
+    "relative position":56,
+    "Orientation X":-0.0511367162,
+    "Orientation Y":0.0057940798,
+    "Orientation Z":0.1276853887,
+    "Orientation W":0.9904786249,
+    "angular velocity X":0.2509734929,
+    "angular velocity Y":-0.3895185888,
+    "angular velocity Z":-0.1446974874,
+    "linear Acceleration X":-0.9027304638,
+    "linear Acceleration Y":-0.4976614283,
+    "linear Acceleration Z":9.6038579673,
+    "barometer":213.2739868164,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159079226,35.1449969049,74.8579 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:35",
+    "rostime secs":1592230055,
+    "rostime nsecs":856071057,
+    "batttery":74,
+    "heading":75.343,
+    "velocity":5.00855,
+    "relative position":56,
+    "Orientation X":0.0134468572,
+    "Orientation Y":-0.2017202654,
+    "Orientation Z":0.1217039568,
+    "Orientation W":0.971759365,
+    "angular velocity X":-0.0371054038,
+    "angular velocity Y":-0.3634646535,
+    "angular velocity Z":-0.0932420939,
+    "linear Acceleration X":-0.3434366287,
+    "linear Acceleration Y":-0.7209863826,
+    "linear Acceleration Z":10.6360716033,
+    "barometer":212.9412841797,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159045941,35.1450003204,74.7692 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:36",
+    "rostime secs":1592230056,
+    "rostime nsecs":856070640,
+    "batttery":74,
+    "heading":76.1131,
+    "velocity":1.86064,
+    "relative position":56,
+    "Orientation X":-0.0148336892,
+    "Orientation Y":0.0446615207,
+    "Orientation Z":0.1214522908,
+    "Orientation W":0.9914810393,
+    "angular velocity X":-0.1084769741,
+    "angular velocity Y":0.6281228065,
+    "angular velocity Z":0.0108629055,
+    "linear Acceleration X":-0.427777151,
+    "linear Acceleration Y":-0.7627751161,
+    "linear Acceleration Z":9.9228656902,
+    "barometer":212.8861541748,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.415903808,35.1449985995,74.9888 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:37",
+    "rostime secs":1592230057,
+    "rostime nsecs":855992931,
+    "batttery":74,
+    "heading":76.778,
+    "velocity":0.889386,
+    "relative position":56,
+    "Orientation X":-0.0415344032,
+    "Orientation Y":0.0888547786,
+    "Orientation Z":0.1172932495,
+    "Orientation W":0.988241881,
+    "angular velocity X":0.2241770476,
+    "angular velocity Y":0.716360867,
+    "angular velocity Z":0.0156979188,
+    "linear Acceleration X":-0.4640022515,
+    "linear Acceleration Y":-0.4257131155,
+    "linear Acceleration Z":9.5813469778,
+    "barometer":213.1015014648,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159231473,35.1450009625,74.9988 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:38",
+    "rostime secs":1592230058,
+    "rostime nsecs":856094858,
+    "batttery":74,
+    "heading":76.9516,
+    "velocity":0.446112,
+    "relative position":56,
+    "Orientation X":-0.0552295151,
+    "Orientation Y":0.199485766,
+    "Orientation Z":0.1178121169,
+    "Orientation W":0.9712236792,
+    "angular velocity X":0.0813586116,
+    "angular velocity Y":0.1053033471,
+    "angular velocity Z":-0.0810216069,
+    "linear Acceleration X":-0.7727736636,
+    "linear Acceleration Y":-0.6235259752,
+    "linear Acceleration Z":10.0488814316,
+    "barometer":213.1268310547,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4159761368,35.1450086404,75.0788 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:39",
+    "rostime secs":1592230059,
+    "rostime nsecs":856044753,
+    "batttery":74,
+    "heading":75.4268,
+    "velocity":3.66599,
+    "relative position":57,
+    "Orientation X":-0.059414701,
+    "Orientation Y":-0.004546789,
+    "Orientation Z":0.1271894141,
+    "Orientation W":0.9900869017,
+    "angular velocity X":0.1999138892,
+    "angular velocity Y":-0.3587364256,
+    "angular velocity Z":-0.0394098833,
+    "linear Acceleration X":-0.7788941711,
+    "linear Acceleration Y":-0.7444459428,
+    "linear Acceleration Z":9.3950620256,
+    "barometer":213.2055664063,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160146501,35.145018259,75.0085 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:40",
+    "rostime secs":1592230060,
+    "rostime nsecs":856097409,
+    "batttery":74,
+    "heading":75.34,
+    "velocity":4.87671,
+    "relative position":57,
+    "Orientation X":0.0077209334,
+    "Orientation Y":-0.2002527826,
+    "Orientation Z":0.120824428,
+    "Orientation W":0.9722348831,
+    "angular velocity X":0.1723917872,
+    "angular velocity Y":-0.2567415237,
+    "angular velocity Z":-0.1214532405,
+    "linear Acceleration X":-0.2202255602,
+    "linear Acceleration Y":-0.6197638961,
+    "linear Acceleration Z":10.3201033956,
+    "barometer":213.1403503418,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160124426,35.1450213355,74.9153 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:41",
+    "rostime secs":1592230061,
+    "rostime nsecs":856003867,
+    "batttery":74,
+    "heading":76.3026,
+    "velocity":1.80255,
+    "relative position":57,
+    "Orientation X":-0.0136522382,
+    "Orientation Y":0.0380857136,
+    "Orientation Z":0.1199739074,
+    "Orientation W":0.9919522954,
+    "angular velocity X":-0.0826173201,
+    "angular velocity Y":0.7230713367,
+    "angular velocity Z":0.0200278647,
+    "linear Acceleration X":-0.5947632191,
+    "linear Acceleration Y":-0.8038845884,
+    "linear Acceleration Z":10.0479946386,
+    "barometer":213.0076751709,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160119227,35.1450207225,75.2043 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:42",
+    "rostime secs":1592230062,
+    "rostime nsecs":855927565,
+    "batttery":73,
+    "heading":76.6248,
+    "velocity":0.919773,
+    "relative position":57,
+    "Orientation X":-0.0449603713,
+    "Orientation Y":0.0760528422,
+    "Orientation Z":0.1188866521,
+    "Orientation W":0.9889694101,
+    "angular velocity X":0.2106208503,
+    "angular velocity Y":0.7421290874,
+    "angular velocity Z":0.0454230756,
+    "linear Acceleration X":-0.2081276887,
+    "linear Acceleration Y":-0.500956707,
+    "linear Acceleration Z":9.4351061633,
+    "barometer":213.3384857178,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160313185,35.1450230729,75.173 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:43",
+    "rostime secs":1592230063,
+    "rostime nsecs":855983450,
+    "batttery":73,
+    "heading":77.0757,
+    "velocity":0.458166,
+    "relative position":57,
+    "Orientation X":-0.0570116147,
+    "Orientation Y":0.1961527008,
+    "Orientation Z":0.1174397056,
+    "Orientation W":0.9718444882,
+    "angular velocity X":0.125703916,
+    "angular velocity Y":-0.0038966686,
+    "angular velocity Z":-0.0455501601,
+    "linear Acceleration X":-0.8467509244,
+    "linear Acceleration Y":-0.7287328234,
+    "linear Acceleration Z":10.1429550987,
+    "barometer":213.2903594971,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160622034,35.1450276294,75.001 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:44",
+    "rostime secs":1592230064,
+    "rostime nsecs":855971783,
+    "batttery":73,
+    "heading":75.6234,
+    "velocity":3.55221,
+    "relative position":58,
+    "Orientation X":-0.0263864108,
+    "Orientation Y":-0.1083603493,
+    "Orientation Z":0.1199504769,
+    "Orientation W":0.9864956539,
+    "angular velocity X":0.0273887552,
+    "angular velocity Y":0.9702317715,
+    "angular velocity Z":0.0957957506,
+    "linear Acceleration X":-0.4646548958,
+    "linear Acceleration Y":-0.7269563895,
+    "linear Acceleration Z":9.7995681623,
+    "barometer":213.0984191895,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160594049,35.1450277016,75.2041 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:45",
+    "rostime secs":1592230065,
+    "rostime nsecs":855907720,
+    "batttery":73,
+    "heading":76.2425,
+    "velocity":0.840378,
+    "relative position":58,
+    "Orientation X":-0.0402420954,
+    "Orientation Y":0.0210479517,
+    "Orientation Z":0.1209126911,
+    "Orientation W":0.9916237586,
+    "angular velocity X":-0.0082127824,
+    "angular velocity Y":0.0420676991,
+    "angular velocity Z":-0.0386881083,
+    "linear Acceleration X":-0.4322418589,
+    "linear Acceleration Y":-0.6479962487,
+    "linear Acceleration Z":9.4278646045,
+    "barometer":213.3302307129,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160635992,35.1450282566,75.3406 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:46",
+    "rostime secs":1592230066,
+    "rostime nsecs":855958240,
+    "batttery":73,
+    "heading":76.0242,
+    "velocity":0.304827,
+    "relative position":58,
+    "Orientation X":-0.0402754222,
+    "Orientation Y":0.0230654744,
+    "Orientation Z":0.122851245,
+    "Orientation W":0.9913392184,
+    "angular velocity X":-0.1287961453,
+    "angular velocity Y":0.0052911155,
+    "angular velocity Z":0.0105105489,
+    "linear Acceleration X":-0.5240430824,
+    "linear Acceleration Y":-0.8880952391,
+    "linear Acceleration Z":9.5383719833,
+    "barometer":213.4565124512,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160668182,35.1450285583,75.1786 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:47",
+    "rostime secs":1592230067,
+    "rostime nsecs":855984594,
+    "batttery":73,
+    "heading":76.0517,
+    "velocity":0.252471,
+    "relative position":58,
+    "Orientation X":-0.0347169765,
+    "Orientation Y":0.0107674489,
+    "Orientation Z":0.1223259162,
+    "Orientation W":0.9918241597,
+    "angular velocity X":-0.0779270679,
+    "angular velocity Y":-0.1960850507,
+    "angular velocity Z":0.0516139828,
+    "linear Acceleration X":-0.4069408377,
+    "linear Acceleration Y":-0.8750205188,
+    "linear Acceleration Z":9.7278430812,
+    "barometer":213.2910614014,
+    "Picture Name":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4160681672,35.1450285322,75.1334 ]
+    },
+    "properties": {
+    "Timestamp":"2020-06-15 17:07:48",
+    "rostime secs":1592230068,
+    "rostime nsecs":855962042,
+    "batttery":73,
+    "heading":75.9621,
+    "velocity":0.17168,
+    "relative position":58,
+    "Orientation X":-0.0396953729,
+    "Orientation Y":0.0184402199,
+    "Orientation Z":0.1233617917,
+    "Orientation W":0.9913960379,
+    "angular velocity X":-0.0862151086,
+    "angular velocity Y":0.0725612268,
+    "angular velocity Z":0.0154257156,
+    "linear Acceleration X":-0.5227875591,
+    "linear Acceleration Y":-0.6980785123,
+    "linear Acceleration Z":9.6523932357,
+    "barometer":213.1955871582,
+    "Picture Name":""
+    }
+  }
+]
+}
