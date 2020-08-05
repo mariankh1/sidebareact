@@ -48,13 +48,52 @@
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
 
     <!-- Load our React component. -->
-
+ <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+      <script src="https://unpkg.com/video.js/dist/video.js"></script>
+      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+   
     <link href="index.css" rel="stylesheet" type="text/css" />
  
     <script src="dist\threebox.js" type="text/javascript"></script>
    
 </head>
 <body>
+        <div id="mydiv1" >
+
+   <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
+      data-setup='{}'>
+         <source src="http://techslides.com/demos/sample-videos/small.mp4"  type=video/mp4>/>
+      </video>
+      
+    <script>
+    var player = videojs('my-video');
+    player.play();
+    </script>
+      
+  </div> 
+
+    <div id="mydiv" >
+    <video
+    id="my-video"
+    class="video-js"
+    preload="auto"
+    width="200"
+    height="150"
+    data-setup="{}"
+  >
+     <source src="http://techslides.com/demos/sample-videos/small.mp4"  type=video/mp4>/>
+   
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser tha
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
+      >
+    </p>
+  </video>
+
+</div> 
+
        <div id="map"></div>
       <!-- sidebar -->
     <div class="page-wrapper default-theme sidebar-bg bg1 toggled">

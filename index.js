@@ -2,10 +2,11 @@
 const DRONE_1 = 1;
 const DRONE_2 = 2;
 var videoFrame = document.getElementById("mydiv");
-
-if (videoFrame)
+var videoFrame1 = document.getElementById("mydiv1");
+if (videoFrame || videoFrame1)
 {
     dragElement(videoFrame);
+    dragElement(videoFrame1);
 }
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ2VvcmdlMjMyMyIsImEiOiJja2MwZmxjbGYxajF4MnJsZ2pzbjhjdHc2In0.znh7LExrIEsKBB7SWYJ3hg';
